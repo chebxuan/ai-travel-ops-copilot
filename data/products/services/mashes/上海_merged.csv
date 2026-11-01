@@ -1,0 +1,39 @@
+项目编号,城市,服务类目,项目名称,项目说明,单价,单价（旺季）,单位,项目备注
+SH-ACTIVITY-01,上海,活动,外滩,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+SH-ACTIVITY-02,上海,活动,外滩用餐,Synthetic demo service; not a supplier offer.,242,,人,DEMO DATA ONLY
+SH-ACTIVITY-03,上海,活动,本帮菜,Synthetic demo service; not a supplier offer.,250,,人,DEMO DATA ONLY
+SH-ACTIVITY-04,上海,活动,武康路,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+SH-ACTIVITY-05,上海,活动,汉服体验,Synthetic demo service; not a supplier offer.,278,,,DEMO DATA ONLY
+SH-ACTIVITY-06,上海,活动,法租界小酌,Synthetic demo service; not a supplier offer.,226,,人,DEMO DATA ONLY
+SH-ACTIVITY-07,上海,活动,非遗老布手工体验,Synthetic demo service; not a supplier offer.,101,,,DEMO DATA ONLY
+SH-ACTIVITY-08,上海,活动,黄浦江夜游,Synthetic demo service; not a supplier offer.,270,,,DEMO DATA ONLY
+SH-TICKET-01,上海,门票,上海博物馆,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+SH-TICKET-02,上海,门票,中共一大会址纪念馆,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+SH-TICKET-03,上海,门票,人民公园 (上海),Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+SH-TICKET-04,上海,门票,城隍庙,Synthetic demo service; not a supplier offer.,163,,,DEMO DATA ONLY
+SH-TICKET-05,上海,门票,朱家角古镇,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+SH-TICKET-06,上海,门票,豫园,Synthetic demo service; not a supplier offer.,241,278,人,DEMO DATA ONLY
+SH-TICKET-07,上海,门票,迪士尼乐园,Synthetic demo service; not a supplier offer.,297,334,人,DEMO DATA ONLY
+SH-TICKET-08,上海,门票,静安寺,Synthetic demo service; not a supplier offer.,135,,,DEMO DATA ONLY
+SH-GUIDE-01,上海,导游,英文导游-初级,Synthetic demo service; not a supplier offer.,128,,,DEMO DATA ONLY
+SH-GUIDE-02,上海,导游,英文导游-高级,Synthetic demo service; not a supplier offer.,156,,,DEMO DATA ONLY
+SH-HOTEL-01,上海,酒店,演示住宿 SH-HOTEL-01,Synthetic demo service; not a supplier offer.,297,,,DEMO DATA ONLY
+SH-HOTEL-02,上海,酒店,演示住宿 SH-HOTEL-02,Synthetic demo service; not a supplier offer.,104,,,DEMO DATA ONLY
+SH-HOTEL-03,上海,酒店,演示住宿 SH-HOTEL-03,Synthetic demo service; not a supplier offer.,170,,,DEMO DATA ONLY
+SH-TRANS-01,上海,车辆,5座车,Synthetic demo service; not a supplier offer.,158,,,DEMO DATA ONLY
+SH-TRANS-02,上海,车辆,7座车,Synthetic demo service; not a supplier offer.,225,,,DEMO DATA ONLY
+SH-TRANS-03,上海,车辆,接送虹桥机场/火车站,Synthetic demo service; not a supplier offer.,226,,,DEMO DATA ONLY
+SH-TRANS-04,上海,车辆,接送浦东机场,Synthetic demo service; not a supplier offer.,257,,,DEMO DATA ONLY
+SH-TRANS-05,上海,车辆,市内+朱家角/迪士尼往返,Synthetic demo service; not a supplier offer.,295,,,DEMO DATA ONLY
+SH-TRANS-06,上海,打车,滴滴快车,Synthetic demo service; not a supplier offer.,237,,,DEMO DATA ONLY
+SH-TRANS-07,上海,打车,滴滴快车,Synthetic demo service; not a supplier offer.,260,,,DEMO DATA ONLY
+SH-TICKET-09,上海,门票,东方明珠塔,Synthetic demo service; not a supplier offer.,265,,人,DEMO DATA ONLY
+SH-TICKET-10,上海,门票,上海中心大厦,Synthetic demo service; not a supplier offer.,169,,人,DEMO DATA ONLY
+SH-TICKET-11,上海,门票,宋庆龄故居,Synthetic demo service; not a supplier offer.,125,,人,DEMO DATA ONLY
+SH-TICKET-12,上海,门票,上海历史博物馆,Synthetic demo service; not a supplier offer.,0,0,人,DEMO DATA ONLY 用户确认免费（演示规则）
+SH-ACTIVITY-09,上海,活动,朱家角船票,Synthetic demo service; not a supplier offer.,267,,人,DEMO DATA ONLY
+SH-ACTIVITY-10,上海,活动,南翔小笼包,Synthetic demo service; not a supplier offer.,156,,人,DEMO DATA ONLY
+SH-ACTIVITY-11,上海,活动,武康路咖啡馆,Synthetic demo service; not a supplier offer.,219,,人,DEMO DATA ONLY
+SH-ACTIVITY-12,上海,活动,一尺花园,Synthetic demo service; not a supplier offer.,201,,人,DEMO DATA ONLY
+SH-ACTIVITY-13,上海,活动,新天地,Synthetic demo service; not a supplier offer.,181,,人,DEMO DATA ONLY
+SH-ACTIVITY-14,上海,活动,梧桐区骑行,Synthetic demo service; not a supplier offer.,114,,人,DEMO DATA ONLY

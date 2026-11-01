@@ -1,0 +1,28 @@
+项目编号,城市,服务类目,项目名称,项目说明,单价,单价（旺季）,单位,项目备注
+CQ-ACTIVITY-01,重庆,活动,三峡游轮,Synthetic demo service; not a supplier offer.,270,,,DEMO DATA ONLY
+CQ-ACTIVITY-02,重庆,活动,三峡游轮,Synthetic demo service; not a supplier offer.,252,,人/次,DEMO DATA ONLY
+CQ-ACTIVITY-03,重庆,活动,下浩里,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+CQ-ACTIVITY-04,重庆,活动,两江夜游,Synthetic demo service; not a supplier offer.,177,,,DEMO DATA ONLY
+CQ-ACTIVITY-05,重庆,活动,山城巷传统风貌区,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+CQ-ACTIVITY-06,重庆,活动,川剧变脸表演,Synthetic demo service; not a supplier offer.,210,,,DEMO DATA ONLY
+CQ-ACTIVITY-07,重庆,活动,洪崖洞火锅,Synthetic demo service; not a supplier offer.,183,,,DEMO DATA ONLY
+CQ-ACTIVITY-08,重庆,活动,盖碗茶,Synthetic demo service; not a supplier offer.,236,,杯,DEMO DATA ONLY
+CQ-ACTIVITY-09,重庆,活动,麻花制作体验,Synthetic demo service; not a supplier offer.,152,,,DEMO DATA ONLY
+CQ-TICKET-01,重庆,门票,重庆人民大礼堂,Synthetic demo service; not a supplier offer.,261,,,DEMO DATA ONLY
+CQ-TICKET-02,重庆,门票,大足石刻,Synthetic demo service; not a supplier offer.,299,,,DEMO DATA ONLY
+CQ-TICKET-03,重庆,门票,武隆,Synthetic demo service; not a supplier offer.,217,,,DEMO DATA ONLY
+CQ-TICKET-04,重庆,门票,磁器口古镇,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+CQ-TICKET-05,重庆,门票,长江索道,Synthetic demo service; not a supplier offer.,155,,,DEMO DATA ONLY
+CQ-GUIDE-01,重庆,导游,英文导游-初级,Synthetic demo service; not a supplier offer.,215,,,DEMO DATA ONLY
+CQ-ADD-01,重庆,补贴服务费,司导餐住补贴,Synthetic demo service; not a supplier offer.,,213,,DEMO DATA ONLY
+CQ-HOTEL-01,重庆,酒店,演示住宿 CQ-HOTEL-01,Synthetic demo service; not a supplier offer.,243,,,DEMO DATA ONLY
+CQ-HOTEL-02,重庆,酒店,演示住宿 CQ-HOTEL-02,Synthetic demo service; not a supplier offer.,133,,,DEMO DATA ONLY
+CQ-HOTEL-03,重庆,酒店,演示住宿 CQ-HOTEL-03,Synthetic demo service; not a supplier offer.,238,,,DEMO DATA ONLY
+CQ-TRANS-01,重庆,车辆,5座车,Synthetic demo service; not a supplier offer.,238,,,DEMO DATA ONLY
+CQ-TRANS-02,重庆,车辆,7座车,Synthetic demo service; not a supplier offer.,153,,,DEMO DATA ONLY
+CQ-TRANS-03,重庆,车辆,接送江北机场,Synthetic demo service; not a supplier offer.,200,,,DEMO DATA ONLY
+CQ-TRANS-04,重庆,车辆,接送重庆北站/西站,Synthetic demo service; not a supplier offer.,107,,,DEMO DATA ONLY
+CQ-TRANS-05,重庆,车辆,7座市内+武隆往返,Synthetic demo service; not a supplier offer.,213,,天,DEMO DATA ONLY
+CQ-TRANS-06,重庆,车辆,7座市内+大足石刻往返,Synthetic demo service; not a supplier offer.,192,,天,DEMO DATA ONLY
+CQ-TRANS-07,重庆,打车,滴滴快车,Synthetic demo service; not a supplier offer.,223,,天,DEMO DATA ONLY
+CQ-TRANS-08,重庆,打车,滴滴快车,Synthetic demo service; not a supplier offer.,190,,天,DEMO DATA ONLY

@@ -1,0 +1,2 @@
+# Current travel website backend dependencies.
+-r backend/requirements.txt

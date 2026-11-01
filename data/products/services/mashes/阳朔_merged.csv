@@ -1,0 +1,21 @@
+项目编号,城市,服务类目,项目名称,项目说明,单价,单价（旺季）,单位,项目备注
+YS-ACTIVITY-01,阳朔,活动,中餐烹饪体验,Synthetic demo service; not a supplier offer.,225,,,DEMO DATA ONLY
+YS-ACTIVITY-02,阳朔,活动,全地形山地车,Synthetic demo service; not a supplier offer.,201,,人/次,DEMO DATA ONLY
+YS-ACTIVITY-03,阳朔,活动,十里画廊骑行,Synthetic demo service; not a supplier offer.,241,,,DEMO DATA ONLY
+YS-ACTIVITY-04,阳朔,活动,古镇,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+YS-ACTIVITY-05,阳朔,活动,岩洞探险,Synthetic demo service; not a supplier offer.,298,,,DEMO DATA ONLY
+YS-ACTIVITY-06,阳朔,活动,漓江电动竹筏,Synthetic demo service; not a supplier offer.,110,,,DEMO DATA ONLY
+YS-ACTIVITY-07,阳朔,活动,遇龙河漂流,Synthetic demo service; not a supplier offer.,150,,,DEMO DATA ONLY
+YS-ACTIVITY-08,阳朔,活动,阳朔西街,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+YS-ACTIVITY-09,阳朔,活动,飞拉达,Synthetic demo service; not a supplier offer.,114,,,DEMO DATA ONLY
+YS-TICKET-01,阳朔,门票,月亮山,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+YS-TICKET-02,阳朔,门票,相公山,Synthetic demo service; not a supplier offer.,153,,,DEMO DATA ONLY
+YS-GUIDE-01,阳朔,导游,英文导游-初级,Synthetic demo service; not a supplier offer.,191,,,DEMO DATA ONLY
+YS-HOTEL-01,阳朔,酒店,演示住宿 YS-HOTEL-01,Synthetic demo service; not a supplier offer.,185,,,DEMO DATA ONLY
+YS-HOTEL-02,阳朔,酒店,演示住宿 YS-HOTEL-02,Synthetic demo service; not a supplier offer.,169,,,DEMO DATA ONLY
+YS-HOTEL-03,阳朔,酒店,演示住宿 YS-HOTEL-03,Synthetic demo service; not a supplier offer.,108,,,DEMO DATA ONLY
+YS-TRANS-01,阳朔,车辆,5座车,Synthetic demo service; not a supplier offer.,123,,,DEMO DATA ONLY
+YS-TRANS-02,阳朔,车辆,7座车,Synthetic demo service; not a supplier offer.,266,,,DEMO DATA ONLY
+YS-TRANS-03,阳朔,车辆,接送桂林两江机场,Synthetic demo service; not a supplier offer.,259,,次,DEMO DATA ONLY
+YS-TRANS-04,阳朔,车辆,接送阳朔站(高铁站),Synthetic demo service; not a supplier offer.,244,,次,DEMO DATA ONLY
+YS-TRANS-05,阳朔,打车,滴滴快车,Synthetic demo service; not a supplier offer.,279,,天,DEMO DATA ONLY

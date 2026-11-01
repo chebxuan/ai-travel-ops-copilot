@@ -1,0 +1,692 @@
+{
+  "北京": {
+    "routes": {
+      "Route 1": {
+        "title": "北京 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 北京, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Tiananmen, Forbidden City & Jingshan Park",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Beijing Hutong Light Walk / Cycling",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 2": {
+        "title": "北京 / Route 2 / demo",
+        "description": "Synthetic itinerary example for 北京, Route 2. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "The Great Wall at Mutianyu",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Summer Palace",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 3": {
+        "title": "北京 / Route 3 / demo",
+        "description": "Synthetic itinerary example for 北京, Route 3. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Temple of Heaven",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Yonghe Temple (Lama Temple)",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {
+      "Peking Opera & Dinner": {
+        "description": "Synthetic example: Peking Opera & Dinner. Availability requires confirmation."
+      },
+      "Hanfu Shooting": {
+        "description": "Synthetic example: Hanfu Shooting. Availability requires confirmation."
+      }
+    },
+    "product_days": {
+      "BJ-P-01": {
+        "1": "Route 1",
+        "2": "Route 2"
+      },
+      "BJ-P-02": {
+        "1": "Route 1",
+        "2": "Route 2",
+        "3": "Route 3"
+      },
+      "BJ-P-03": {
+        "1": "Route 3",
+        "2": "Route 2",
+        "3": "Route 1",
+        "4": "Route 2"
+      }
+    }
+  },
+  "西安": {
+    "routes": {
+      "Route 1": {
+        "title": "西安 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 西安, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Terracotta Army & Mausoleum Park",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 2": {
+        "title": "西安 / Route 2 / demo",
+        "description": "Synthetic itinerary example for 西安, Route 2. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Xi’an City Wall",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Big Wild Goose Pagoda",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Bell/Drum Towers & Muslim Quarter",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {
+      "Tang Dynasty Palace Show": {
+        "description": "Synthetic example: Tang Dynasty Palace Show. Availability requires confirmation."
+      },
+      "Tang Paradise & Everbright City": {
+        "description": "Synthetic example: Tang Paradise & Everbright City. Availability requires confirmation."
+      },
+      "Terracotta Warrior DIY Workshop": {
+        "description": "Synthetic example: Terracotta Warrior DIY Workshop. Availability requires confirmation."
+      }
+    },
+    "product_days": {
+      "XA-P-01": {
+        "1": "Route 1",
+        "2": "Route 2"
+      },
+      "XA-P-02": {
+        "1": "Route 1",
+        "2": "Route 2",
+        "3": "Route 2"
+      }
+    }
+  },
+  "上海": {
+    "routes": {
+      "Route 1": {
+        "title": "上海 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 上海, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "People’s Park & Shanghai Museum",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "The Bund Citywalk",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Yu Garden & City God Temple",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 2": {
+        "title": "上海 / Route 2 / demo",
+        "description": "Synthetic itinerary example for 上海, Route 2. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Site of the First CCP Congress",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Jing’an Temple & Wukang Road Walk",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 3": {
+        "title": "上海 / Route 3 / demo",
+        "description": "Synthetic itinerary example for 上海, Route 3. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Zhujiajiao Water Town",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 4": {
+        "title": "上海 / Route 4 / demo",
+        "description": "Synthetic itinerary example for 上海, Route 4. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Shanghai Disneyland",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {
+      "Huangpu River Night Cruise": {
+        "description": "Synthetic example: Huangpu River Night Cruise. Availability requires confirmation."
+      },
+      "Zujiajiao Cloth Workshop": {
+        "description": "Synthetic example: Zujiajiao Cloth Workshop. Availability requires confirmation."
+      },
+      "Hanfu Shooting": {
+        "description": "Synthetic example: Hanfu Shooting. Availability requires confirmation."
+      }
+    },
+    "product_days": {
+      "SH-P-01": {
+        "1": "Route 1",
+        "2": "Route 2"
+      },
+      "SH-P-02": {
+        "1": "Route 1",
+        "2": "Route 3",
+        "3": "Route 2"
+      },
+      "SH-P-03": {
+        "1": "Route 1",
+        "2": "Route 3",
+        "3": "Route 2",
+        "4": "Route 4"
+      }
+    }
+  },
+  "广州": {
+    "routes": {
+      "Route 1": {
+        "title": "广州 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 广州, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Chen Clan Ancestral Hall & Shamian Island & Yongqing Fang",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Xiguan Folk Museum & Guangzhou Thirteen-Hongs Museum & Guangzhou Tower",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 2": {
+        "title": "广州 / Route 2 / demo",
+        "description": "Synthetic itinerary example for 广州, Route 2. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Yuexiu Park & Museum of the Nanyue King",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Sun Yat-sen Memorial Sites & Huiji Old Streets",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 3": {
+        "title": "广州 / Route 3 / demo",
+        "description": "Synthetic itinerary example for 广州, Route 3. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Gu Long Gorge Day Trip",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 4": {
+        "title": "广州 / Route 4 / demo",
+        "description": "Synthetic itinerary example for 广州, Route 4. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Wholesale Market Deep Dive",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {
+      "Wellness SPA": {
+        "description": "Synthetic example: Wellness SPA. Availability requires confirmation."
+      },
+      "Wing Chun Kung Fu": {
+        "description": "Synthetic example: Wing Chun Kung Fu. Availability requires confirmation."
+      },
+      "Live-Streaming Hub Visit": {
+        "description": "Synthetic example: Live-Streaming Hub Visit. Availability requires confirmation."
+      }
+    },
+    "product_days": {
+      "GZ-P-01": {
+        "1": "Route 4"
+      },
+      "GZ-P-02": {
+        "1": "Route 1",
+        "2": "Route 3"
+      },
+      "GZ-P-03": {
+        "1": "Route 1",
+        "2": "Route 2",
+        "3": "Route 3"
+      }
+    }
+  },
+  "重庆": {
+    "routes": {
+      "Route 1": {
+        "title": "重庆 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 重庆, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Great Hall & Shancheng Lane",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Yangtze River Cableway",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Xiahao Li Old Street",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 2": {
+        "title": "重庆 / Route 2 / demo",
+        "description": "Synthetic itinerary example for 重庆, Route 2. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Wulong Karst",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 3": {
+        "title": "重庆 / Route 3 / demo",
+        "description": "Synthetic itinerary example for 重庆, Route 3. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Dazu Carvings",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Ciqikou Town",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 4": {
+        "title": "重庆 / Route 4 / demo",
+        "description": "Synthetic itinerary example for 重庆, Route 4. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Fengdu Ghost City",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "“War Flames of the Three Kingdoms”",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Wuxia (Witch) Gorge Sailing",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Three Gorges Dam",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {
+      "Sichuan Opera Face-Changing": {
+        "description": "Synthetic example: Sichuan Opera Face-Changing. Availability requires confirmation."
+      }
+    },
+    "product_days": {
+      "CQ-P-01": {
+        "1": "Route 1",
+        "2": "Route 2"
+      },
+      "CQ-P-02": {
+        "1": "Route 1",
+        "2": "Route 2",
+        "3": "Route 3"
+      },
+      "CQ-P-03": {
+        "1": "Route 1",
+        "2": "Route 3",
+        "3": "Route 4",
+        "4": "Route 4",
+        "5": "Route 4"
+      }
+    }
+  },
+  "阳朔": {
+    "routes": {
+      "Route 1": {
+        "title": "阳朔 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 阳朔, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Yulong River Bamboo Raft",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Ten-Mile Gallery Cycling",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "West Street Stroll",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 2": {
+        "title": "阳朔 / Route 2 / demo",
+        "description": "Synthetic itinerary example for 阳朔, Route 2. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Xingping Ancient Town",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Li River Motorized Raft",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Xianggong Hill Climb",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 3": {
+        "title": "阳朔 / Route 3 / demo",
+        "description": "Synthetic itinerary example for 阳朔, Route 3. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "All-Terrain ATV",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Chinese Cooking Class",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Karst Cave Exploration",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Via Ferrata Climb",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {},
+    "product_days": {
+      "YS-P-01": {
+        "1": "Route 1",
+        "2": "Route 2"
+      },
+      "YS-P-02": {
+        "1": "Route 1",
+        "2": "Route 2",
+        "3": "Route 3"
+      }
+    }
+  },
+  "张家界": {
+    "routes": {
+      "Route 1": {
+        "title": "张家界 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 张家界, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Tianmen Mountain Excursion",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 2": {
+        "title": "张家界 / Route 2 / demo",
+        "description": "Synthetic itinerary example for 张家界, Route 2. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Golden Whip Stream",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Yuanjiajie & Tianzi Mountain",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 3": {
+        "title": "张家界 / Route 3 / demo",
+        "description": "Synthetic itinerary example for 张家界, Route 3. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Furong (Hibiscus) Town",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Miao Long-table Banquet",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Phoenix Ancient Town",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      },
+      "Route 4": {
+        "title": "张家界 / Route 4 / demo",
+        "description": "Synthetic itinerary example for 张家界, Route 4. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Qixingshan Via Ferrata",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "72 Strange Towers",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {
+      "Charming Xiangxi Show": {
+        "description": "Synthetic example: Charming Xiangxi Show. Availability requires confirmation."
+      }
+    },
+    "product_days": {
+      "ZJJ-P-01": {
+        "1": "Route 1",
+        "2": "Route 2"
+      },
+      "ZJJ-P-02": {
+        "1": "Route 1",
+        "2": "Route 2",
+        "3": "Route 3"
+      }
+    }
+  },
+  "贵州": {
+    "routes": {
+      "Route 1": {
+        "title": "贵州 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 贵州, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Jiaxiu Tower",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Qingyan Ancient Town",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Shidong Miao Silversmith Village",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Xiasi Ancient Town",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Zhaoxing Dong Village",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Xiaoqikong National Park",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {
+      "Shidong Market": {
+        "description": "Synthetic example: Shidong Market. Availability requires confirmation."
+      },
+      "Zhaoxing Batik Experience": {
+        "description": "Synthetic example: Zhaoxing Batik Experience. Availability requires confirmation."
+      },
+      "Guizhou Craft Brewing": {
+        "description": "Synthetic example: Guizhou Craft Brewing. Availability requires confirmation."
+      },
+      "Hands-on silver-making workshop": {
+        "description": "Synthetic example: Hands-on silver-making workshop. Availability requires confirmation."
+      }
+    },
+    "product_days": {
+      "GZH-P-01": {
+        "1": "Route 1",
+        "2": "Route 1",
+        "3": "Route 1",
+        "4": "Route 1"
+      }
+    }
+  },
+  "云南": {
+    "routes": {
+      "Route 1": {
+        "title": "云南 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 云南, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Kunming Old Street",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Dali Old Town",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Erhai Lake & Xizhou Town",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Lijiang Old Town (Dayan)",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Black Dragon Pool",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Tiger Leaping Gorge",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Shangri-La & Dukezong",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Pudacuo National Park",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {
+      "Bai Three-Course Tea Ceremony": {
+        "description": "Synthetic example: Bai Three-Course Tea Ceremony. Availability requires confirmation."
+      },
+      "Tibetan Thangka Painting Class": {
+        "description": "Synthetic example: Tibetan Thangka Painting Class. Availability requires confirmation."
+      }
+    },
+    "product_days": {
+      "YN-P-01": {
+        "1": "Route 1",
+        "2": "Route 1",
+        "3": "Route 1",
+        "4": "Route 1",
+        "5": "Route 1"
+      }
+    }
+  },
+  "成都": {
+    "routes": {
+      "Route 1": {
+        "title": "成都 / Route 1 / demo",
+        "description": "Synthetic itinerary example for 成都, Route 1. Confirm arrangements separately.",
+        "attractions": [
+          {
+            "name": "Wuhou Shrine",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Chengdu Museum",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Taikoo Li",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Giant Panda Base",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "People's Park",
+            "description": "Public-place reference used in a synthetic route example."
+          },
+          {
+            "name": "Kuanzhai Alley",
+            "description": "Public-place reference used in a synthetic route example."
+          }
+        ]
+      }
+    },
+    "activities": {
+      "Sichuan Opera Face-Changing": {
+        "description": "Synthetic example: Sichuan Opera Face-Changing. Availability requires confirmation."
+      },
+      "Chuan Chuan Hotpot": {
+        "description": "Synthetic example: Chuan Chuan Hotpot. Availability requires confirmation."
+      }
+    },
+    "product_days": {
+      "CD-P-01": {
+        "1": "Route 1",
+        "2": "Route 1"
+      }
+    }
+  }
+}

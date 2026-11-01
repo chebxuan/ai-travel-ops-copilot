@@ -1,0 +1,1421 @@
+{
+  "version": "1.0.0",
+  "source": "data/products/product_library.csv",
+  "record_count": 21,
+  "products": [
+    {
+      "product_id": "BJ-P-01",
+      "city": "北京",
+      "product_name": "北京演示产品 2 日（BJ-P-01）",
+      "duration_days": 2,
+      "itinerary_text": "Day 1: 天安门广场+毛泽东纪念堂+人民大会堂+故宫+景山+胡同什刹海+京剧演出和晚餐\nDay 2: 慕田峪长城+颐和园+涮肉",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "天安门广场+毛泽东纪念堂+人民大会堂+故宫+景山+胡同什刹海+京剧演出和晚餐",
+          "activity_names": [
+            "天安门广场",
+            "毛泽东纪念堂",
+            "人民大会堂",
+            "故宫",
+            "景山",
+            "胡同什刹海",
+            "京剧演出和晚餐"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "慕田峪长城+颐和园+涮肉",
+          "activity_names": [
+            "慕田峪长城",
+            "颐和园",
+            "涮肉"
+          ]
+        }
+      ],
+      "regular_items": [
+        "天安门广场",
+        "毛泽东纪念堂",
+        "人民大会堂",
+        "故宫",
+        "景山",
+        "胡同游",
+        "慕田峪长城",
+        "颐和园"
+      ],
+      "optional_items": [
+        "梨园京剧",
+        "涮肉"
+      ],
+      "regular_item_codes": [
+        "BJ-TICKET-02",
+        "BJ-TICKET-10",
+        "BJ-TICKET-09",
+        "BJ-TICKET-05",
+        "BJ-TICKET-06",
+        "BJ-ACTIVITY-05",
+        "BJ-TICKET-04",
+        "BJ-TICKET-08"
+      ],
+      "optional_item_codes": [
+        "BJ-ACTIVITY-01",
+        "BJ-ACTIVITY-03"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "北京",
+        "raw_product_name": "北京演示产品 2 日（BJ-P-01）"
+      }
+    },
+    {
+      "product_id": "BJ-P-02",
+      "city": "北京",
+      "product_name": "北京演示产品 3 日（BJ-P-02）",
+      "duration_days": 3,
+      "itinerary_text": "Day 1: 天安门广场+毛泽东纪念堂+人民大会堂+故宫+景山+胡同什刹海+京剧演出和晚餐\nDay 2: 慕田峪长城+颐和园+涮肉\nDay 3: 雍和宫+天坛+烤鸭",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "天安门广场+毛泽东纪念堂+人民大会堂+故宫+景山+胡同什刹海+京剧演出和晚餐",
+          "activity_names": [
+            "天安门广场",
+            "毛泽东纪念堂",
+            "人民大会堂",
+            "故宫",
+            "景山",
+            "胡同什刹海",
+            "京剧演出和晚餐"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "慕田峪长城+颐和园+涮肉",
+          "activity_names": [
+            "慕田峪长城",
+            "颐和园",
+            "涮肉"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "雍和宫+天坛+烤鸭",
+          "activity_names": [
+            "雍和宫",
+            "天坛",
+            "烤鸭"
+          ]
+        }
+      ],
+      "regular_items": [
+        "天安门广场",
+        "毛泽东纪念堂",
+        "人民大会堂",
+        "故宫",
+        "景山",
+        "胡同游",
+        "慕田峪长城",
+        "颐和园",
+        "雍和宫",
+        "天坛"
+      ],
+      "optional_items": [
+        "梨园京剧",
+        "涮肉",
+        "烤鸭"
+      ],
+      "regular_item_codes": [
+        "BJ-TICKET-02",
+        "BJ-TICKET-10",
+        "BJ-TICKET-09",
+        "BJ-TICKET-05",
+        "BJ-TICKET-06",
+        "BJ-ACTIVITY-05",
+        "BJ-TICKET-04",
+        "BJ-TICKET-08",
+        "BJ-TICKET-07",
+        "BJ-TICKET-01"
+      ],
+      "optional_item_codes": [
+        "BJ-ACTIVITY-01",
+        "BJ-ACTIVITY-03",
+        "BJ-ACTIVITY-04"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "北京",
+        "raw_product_name": "北京演示产品 3 日（BJ-P-02）"
+      }
+    },
+    {
+      "product_id": "BJ-P-03",
+      "city": "北京",
+      "product_name": "北京演示产品 4 日（BJ-P-03）",
+      "duration_days": 4,
+      "itinerary_text": "Day 1: 天坛+雍和宫+京剧演出和晚餐\nDay 2: 慕田峪长城+奥林匹克公园+涮肉\nDay 3: 天安门广场+毛泽东纪念堂+人民大会堂+故宫+景山+胡同什刹海+烤鸭\nDay 4: 颐和园+汉服体验+胡同酒馆",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "天坛+雍和宫+京剧演出和晚餐",
+          "activity_names": [
+            "天坛",
+            "雍和宫",
+            "京剧演出和晚餐"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "慕田峪长城+奥林匹克公园+涮肉",
+          "activity_names": [
+            "慕田峪长城",
+            "奥林匹克公园",
+            "涮肉"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "天安门广场+毛泽东纪念堂+人民大会堂+故宫+景山+胡同什刹海+烤鸭",
+          "activity_names": [
+            "天安门广场",
+            "毛泽东纪念堂",
+            "人民大会堂",
+            "故宫",
+            "景山",
+            "胡同什刹海",
+            "烤鸭"
+          ]
+        },
+        {
+          "day_number": 4,
+          "raw_text": "颐和园+汉服体验+胡同酒馆",
+          "activity_names": [
+            "颐和园",
+            "汉服体验",
+            "胡同酒馆"
+          ]
+        }
+      ],
+      "regular_items": [
+        "天坛",
+        "雍和宫",
+        "慕田峪长城",
+        "奥林匹克公园",
+        "天安门广场",
+        "毛泽东纪念堂",
+        "人民大会堂",
+        "故宫",
+        "景山",
+        "胡同游",
+        "颐和园"
+      ],
+      "optional_items": [
+        "梨园京剧",
+        "涮肉",
+        "烤鸭",
+        "汉服体验",
+        "胡同酒馆"
+      ],
+      "regular_item_codes": [
+        "BJ-TICKET-01",
+        "BJ-TICKET-07",
+        "BJ-TICKET-04",
+        "BJ-TICKET-03",
+        "BJ-TICKET-02",
+        "BJ-TICKET-10",
+        "BJ-TICKET-09",
+        "BJ-TICKET-05",
+        "BJ-TICKET-06",
+        "BJ-ACTIVITY-05",
+        "BJ-TICKET-08"
+      ],
+      "optional_item_codes": [
+        "BJ-ACTIVITY-01",
+        "BJ-ACTIVITY-03",
+        "BJ-ACTIVITY-04",
+        "BJ-ACTIVITY-02",
+        "BJ-ACTIVITY-06"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "北京",
+        "raw_product_name": "北京演示产品 4 日（BJ-P-03）"
+      }
+    },
+    {
+      "product_id": "SH-P-01",
+      "city": "上海",
+      "product_name": "上海演示产品 2 日（SH-P-01）",
+      "duration_days": 2,
+      "itinerary_text": "Day 1: 人民公园+上海博物馆+豫园+城隍庙+外滩CW+黄浦江夜游+外滩用餐\nDay 2: 中共一大+静安寺+武康路+法租界小酌",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "人民公园+上海博物馆+豫园+城隍庙+外滩CW+黄浦江夜游+外滩用餐",
+          "activity_names": [
+            "人民公园",
+            "上海博物馆",
+            "豫园",
+            "城隍庙",
+            "外滩CW",
+            "黄浦江夜游",
+            "外滩用餐"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "中共一大+静安寺+武康路+法租界小酌",
+          "activity_names": [
+            "中共一大",
+            "静安寺",
+            "武康路",
+            "法租界小酌"
+          ]
+        }
+      ],
+      "regular_items": [
+        "人民公园 (上海)",
+        "上海博物馆",
+        "豫园",
+        "城隍庙",
+        "外滩",
+        "中共一大会址纪念馆",
+        "静安寺",
+        "武康路"
+      ],
+      "optional_items": [
+        "黄浦江夜游",
+        "外滩用餐",
+        "法租界小酌"
+      ],
+      "regular_item_codes": [
+        "SH-TICKET-03",
+        "SH-TICKET-01",
+        "SH-TICKET-06",
+        "SH-TICKET-04",
+        "SH-ACTIVITY-01",
+        "SH-TICKET-02",
+        "SH-TICKET-08",
+        "SH-ACTIVITY-04"
+      ],
+      "optional_item_codes": [
+        "SH-ACTIVITY-08",
+        "SH-ACTIVITY-02",
+        "SH-ACTIVITY-06"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "上海",
+        "raw_product_name": "上海演示产品 2 日（SH-P-01）"
+      }
+    },
+    {
+      "product_id": "SH-P-02",
+      "city": "上海",
+      "product_name": "上海演示产品 3 日（SH-P-02）",
+      "duration_days": 3,
+      "itinerary_text": "Day 1: 人民公园+上海博物馆+豫园+城隍庙+外滩CW+黄浦江夜游+外滩用餐\nDay 2: 朱家角古镇+非遗/汉服体验+本帮菜\nDay 3: 中共一大+静安寺+武康路+法租界小酌",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "人民公园+上海博物馆+豫园+城隍庙+外滩CW+黄浦江夜游+外滩用餐",
+          "activity_names": [
+            "人民公园",
+            "上海博物馆",
+            "豫园",
+            "城隍庙",
+            "外滩CW",
+            "黄浦江夜游",
+            "外滩用餐"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "朱家角古镇+非遗/汉服体验+本帮菜",
+          "activity_names": [
+            "朱家角古镇",
+            "非遗/汉服体验",
+            "本帮菜"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "中共一大+静安寺+武康路+法租界小酌",
+          "activity_names": [
+            "中共一大",
+            "静安寺",
+            "武康路",
+            "法租界小酌"
+          ]
+        }
+      ],
+      "regular_items": [
+        "人民公园 (上海)",
+        "上海博物馆",
+        "豫园",
+        "城隍庙",
+        "外滩",
+        "朱家角古镇",
+        "中共一大会址纪念馆",
+        "静安寺",
+        "武康路"
+      ],
+      "optional_items": [
+        "黄浦江夜游",
+        "外滩用餐",
+        "非遗老布手工体验",
+        "本帮菜",
+        "法租界小酌"
+      ],
+      "regular_item_codes": [
+        "SH-TICKET-03",
+        "SH-TICKET-01",
+        "SH-TICKET-06",
+        "SH-TICKET-04",
+        "SH-ACTIVITY-01",
+        "SH-TICKET-05",
+        "SH-TICKET-02",
+        "SH-TICKET-08",
+        "SH-ACTIVITY-04"
+      ],
+      "optional_item_codes": [
+        "SH-ACTIVITY-08",
+        "SH-ACTIVITY-02",
+        "SH-ACTIVITY-07",
+        "SH-ACTIVITY-05",
+        "SH-ACTIVITY-03",
+        "SH-ACTIVITY-06"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "上海",
+        "raw_product_name": "上海演示产品 3 日（SH-P-02）"
+      }
+    },
+    {
+      "product_id": "SH-P-03",
+      "city": "上海",
+      "product_name": "上海演示产品 4 日（SH-P-03）",
+      "duration_days": 4,
+      "itinerary_text": "Day 1: 人民公园+上海博物馆+豫园+城隍庙+外滩CW+外滩用餐\nDay 2: 朱家角古镇+非遗/汉服体验+本帮菜\nDay 3: 中共一大+静安寺+武康路+法租界小酌\nDay 4: 迪士尼",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "人民公园+上海博物馆+豫园+城隍庙+外滩CW+外滩用餐",
+          "activity_names": [
+            "人民公园",
+            "上海博物馆",
+            "豫园",
+            "城隍庙",
+            "外滩CW",
+            "外滩用餐"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "朱家角古镇+非遗/汉服体验+本帮菜",
+          "activity_names": [
+            "朱家角古镇",
+            "非遗/汉服体验",
+            "本帮菜"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "中共一大+静安寺+武康路+法租界小酌",
+          "activity_names": [
+            "中共一大",
+            "静安寺",
+            "武康路",
+            "法租界小酌"
+          ]
+        },
+        {
+          "day_number": 4,
+          "raw_text": "迪士尼",
+          "activity_names": [
+            "迪士尼"
+          ]
+        }
+      ],
+      "regular_items": [
+        "人民公园 (上海)",
+        "上海博物馆",
+        "豫园",
+        "城隍庙",
+        "外滩",
+        "朱家角古镇",
+        "中共一大会址纪念馆",
+        "静安寺",
+        "武康路",
+        "迪士尼乐园"
+      ],
+      "optional_items": [
+        "外滩用餐",
+        "非遗老布手工体验",
+        "本帮菜",
+        "法租界小酌"
+      ],
+      "regular_item_codes": [
+        "SH-TICKET-03",
+        "SH-TICKET-01",
+        "SH-TICKET-06",
+        "SH-TICKET-04",
+        "SH-ACTIVITY-01",
+        "SH-TICKET-05",
+        "SH-TICKET-02",
+        "SH-TICKET-08",
+        "SH-ACTIVITY-04",
+        "SH-TICKET-07"
+      ],
+      "optional_item_codes": [
+        "SH-ACTIVITY-02",
+        "SH-ACTIVITY-07",
+        "SH-ACTIVITY-05",
+        "SH-ACTIVITY-03",
+        "SH-ACTIVITY-06"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "上海",
+        "raw_product_name": "上海演示产品 4 日（SH-P-03）"
+      }
+    },
+    {
+      "product_id": "CQ-P-01",
+      "city": "重庆",
+      "product_name": "重庆演示产品 2 日（CQ-P-01）",
+      "duration_days": 2,
+      "itinerary_text": "Day 1: 人民大礼堂+山城巷+长江索道+下浩里+盖碗茶+川剧变脸\nDay 2: 武隆 或 大足石刻+磁器口古镇",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "人民大礼堂+山城巷+长江索道+下浩里+盖碗茶+川剧变脸",
+          "activity_names": [
+            "人民大礼堂",
+            "山城巷",
+            "长江索道",
+            "下浩里",
+            "盖碗茶",
+            "川剧变脸"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "武隆 或 大足石刻+磁器口古镇",
+          "activity_names": [
+            "武隆 或 大足石刻",
+            "磁器口古镇"
+          ]
+        }
+      ],
+      "regular_items": [
+        "重庆人民大礼堂",
+        "山城巷传统风貌区",
+        "长江索道",
+        "下浩里",
+        "武隆",
+        "大足石刻",
+        "麻花制作体验"
+      ],
+      "optional_items": [
+        "盖碗茶",
+        "川剧变脸表演",
+        "两江夜游",
+        "洪崖洞火锅"
+      ],
+      "regular_item_codes": [
+        "CQ-TICKET-01",
+        "CQ-ACTIVITY-05",
+        "CQ-TICKET-05",
+        "CQ-ACTIVITY-03",
+        "CQ-TICKET-03",
+        "CQ-TICKET-02",
+        "CQ-ACTIVITY-09"
+      ],
+      "optional_item_codes": [
+        "CQ-ACTIVITY-08",
+        "CQ-ACTIVITY-06",
+        "CQ-ACTIVITY-04",
+        "CQ-ACTIVITY-07"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "重庆",
+        "raw_product_name": "重庆演示产品 2 日（CQ-P-01）"
+      }
+    },
+    {
+      "product_id": "CQ-P-02",
+      "city": "重庆",
+      "product_name": "重庆演示产品 3 日（CQ-P-02）",
+      "duration_days": 3,
+      "itinerary_text": "Day 1: 人民大礼堂+山城巷+长江索道+下浩里+盖碗茶+川剧变脸\nDay 2: 武隆+两江游+洪崖洞火锅\nDay 3: 大足石刻+磁器口古镇/制作麻花体验",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "人民大礼堂+山城巷+长江索道+下浩里+盖碗茶+川剧变脸",
+          "activity_names": [
+            "人民大礼堂",
+            "山城巷",
+            "长江索道",
+            "下浩里",
+            "盖碗茶",
+            "川剧变脸"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "武隆+两江游+洪崖洞火锅",
+          "activity_names": [
+            "武隆",
+            "两江游",
+            "洪崖洞火锅"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "大足石刻+磁器口古镇/制作麻花体验",
+          "activity_names": [
+            "大足石刻",
+            "磁器口古镇/制作麻花体验"
+          ]
+        }
+      ],
+      "regular_items": [
+        "重庆人民大礼堂",
+        "山城巷传统风貌区",
+        "长江索道",
+        "下浩里",
+        "武隆",
+        "大足石刻",
+        "麻花制作体验"
+      ],
+      "optional_items": [
+        "盖碗茶",
+        "川剧变脸表演",
+        "两江夜游",
+        "洪崖洞火锅"
+      ],
+      "regular_item_codes": [
+        "CQ-TICKET-01",
+        "CQ-ACTIVITY-05",
+        "CQ-TICKET-05",
+        "CQ-ACTIVITY-03",
+        "CQ-TICKET-03",
+        "CQ-TICKET-02",
+        "CQ-ACTIVITY-09"
+      ],
+      "optional_item_codes": [
+        "CQ-ACTIVITY-08",
+        "CQ-ACTIVITY-06",
+        "CQ-ACTIVITY-04",
+        "CQ-ACTIVITY-07"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "重庆",
+        "raw_product_name": "重庆演示产品 3 日（CQ-P-02）"
+      }
+    },
+    {
+      "product_id": "CQ-P-03",
+      "city": "重庆",
+      "product_name": "重庆演示产品 5 日（CQ-P-03）",
+      "duration_days": 5,
+      "itinerary_text": "Day 1: 重庆演示城市路线\nDay 2: 大足演示文化路线\nDay 3: 三峡游轮（分日安排待确认）",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "重庆演示城市路线",
+          "activity_names": [
+            "重庆演示城市路线"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "大足演示文化路线",
+          "activity_names": [
+            "大足演示文化路线"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "三峡游轮（分日安排待确认）",
+          "activity_names": [
+            "三峡游轮（分日安排待确认）"
+          ]
+        }
+      ],
+      "regular_items": [
+        "重庆人民大礼堂",
+        "山城巷传统风貌区",
+        "长江索道",
+        "下浩里",
+        "盖碗茶",
+        "洪崖洞火锅",
+        "大足石刻",
+        "三峡游轮"
+      ],
+      "optional_items": [],
+      "regular_item_codes": [
+        "CQ-TICKET-01",
+        "CQ-ACTIVITY-05",
+        "CQ-TICKET-05",
+        "CQ-ACTIVITY-03",
+        "CQ-ACTIVITY-08",
+        "CQ-ACTIVITY-07",
+        "CQ-TICKET-02",
+        "CQ-ACTIVITY-02"
+      ],
+      "optional_item_codes": [],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "重庆",
+        "raw_product_name": "重庆演示产品 5 日（CQ-P-03）"
+      }
+    },
+    {
+      "product_id": "XA-P-01",
+      "city": "西安",
+      "product_name": "西安演示产品 2 日（XA-P-01）",
+      "duration_days": 2,
+      "itinerary_text": "Day 1: 兵马俑博物馆+兵马俑DIY+骊山园+唐乐舞表演\nDay 2: 明城墙骑行+钟鼓楼+回民街+大雁塔",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "兵马俑博物馆+兵马俑DIY+骊山园+唐乐舞表演",
+          "activity_names": [
+            "兵马俑博物馆",
+            "兵马俑DIY",
+            "骊山园",
+            "唐乐舞表演"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "明城墙骑行+钟鼓楼+回民街+大雁塔",
+          "activity_names": [
+            "明城墙骑行",
+            "钟鼓楼",
+            "回民街",
+            "大雁塔"
+          ]
+        }
+      ],
+      "regular_items": [
+        "秦始皇兵马俑博物馆",
+        "兵马俑DIY体验",
+        "骊山园",
+        "西安城墙自行车租赁",
+        "钟鼓楼",
+        "回民街",
+        "大慈恩寺 (大雁塔)"
+      ],
+      "optional_items": [
+        "唐乐舞表演"
+      ],
+      "regular_item_codes": [
+        "XA-TICKET-04",
+        "XA-ACTIVITY-01",
+        "XA-TICKET-07",
+        "XA-ACTIVITY-04",
+        "XA-TICKET-06",
+        "XA-ACTIVITY-03",
+        "XA-TICKET-02"
+      ],
+      "optional_item_codes": [
+        "XA-ACTIVITY-02"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "西安",
+        "raw_product_name": "西安演示产品 2 日（XA-P-01）"
+      }
+    },
+    {
+      "product_id": "XA-P-02",
+      "city": "西安",
+      "product_name": "西安演示产品 3 日（XA-P-02）",
+      "duration_days": 3,
+      "itinerary_text": "Day 1: 兵马俑博物馆+兵马俑DIY+骊山园+唐乐舞表演\nDay 2: 明城墙骑行+钟鼓楼+回民街+大雁塔\nDay 3: 大唐芙蓉园+大唐不夜城",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "兵马俑博物馆+兵马俑DIY+骊山园+唐乐舞表演",
+          "activity_names": [
+            "兵马俑博物馆",
+            "兵马俑DIY",
+            "骊山园",
+            "唐乐舞表演"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "明城墙骑行+钟鼓楼+回民街+大雁塔",
+          "activity_names": [
+            "明城墙骑行",
+            "钟鼓楼",
+            "回民街",
+            "大雁塔"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "大唐芙蓉园+大唐不夜城",
+          "activity_names": [
+            "大唐芙蓉园",
+            "大唐不夜城"
+          ]
+        }
+      ],
+      "regular_items": [
+        "秦始皇兵马俑博物馆",
+        "兵马俑DIY体验",
+        "骊山园",
+        "西安城墙自行车租赁",
+        "钟鼓楼",
+        "回民街",
+        "大慈恩寺 (大雁塔)",
+        "大唐芙蓉园",
+        "大唐不夜城"
+      ],
+      "optional_items": [
+        "唐乐舞表演"
+      ],
+      "regular_item_codes": [
+        "XA-TICKET-04",
+        "XA-ACTIVITY-01",
+        "XA-TICKET-07",
+        "XA-ACTIVITY-04",
+        "XA-TICKET-06",
+        "XA-ACTIVITY-03",
+        "XA-TICKET-02",
+        "XA-TICKET-01",
+        "XA-ACTIVITY-05"
+      ],
+      "optional_item_codes": [
+        "XA-ACTIVITY-02"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "西安",
+        "raw_product_name": "西安演示产品 3 日（XA-P-02）"
+      }
+    },
+    {
+      "product_id": "YS-P-01",
+      "city": "阳朔",
+      "product_name": "阳朔演示产品 2 日（YS-P-01）",
+      "duration_days": 2,
+      "itinerary_text": "Day 1: 遇龙河漂流+十里画廊骑行+西街\nDay 2: 古镇+漓江电动竹筏+相公山",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "遇龙河漂流+十里画廊骑行+西街",
+          "activity_names": [
+            "遇龙河漂流",
+            "十里画廊骑行",
+            "西街"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "古镇+漓江电动竹筏+相公山",
+          "activity_names": [
+            "古镇",
+            "漓江电动竹筏",
+            "相公山"
+          ]
+        }
+      ],
+      "regular_items": [
+        "遇龙河漂流",
+        "十里画廊骑行",
+        "阳朔西街",
+        "古镇",
+        "漓江电动竹筏",
+        "相公山"
+      ],
+      "optional_items": [],
+      "regular_item_codes": [
+        "YS-ACTIVITY-07",
+        "YS-ACTIVITY-03",
+        "YS-ACTIVITY-08",
+        "YS-ACTIVITY-04",
+        "YS-ACTIVITY-06",
+        "YS-TICKET-02"
+      ],
+      "optional_item_codes": [],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "阳朔",
+        "raw_product_name": "阳朔演示产品 2 日（YS-P-01）"
+      }
+    },
+    {
+      "product_id": "YS-P-02",
+      "city": "阳朔",
+      "product_name": "阳朔演示产品 3 日（YS-P-02）",
+      "duration_days": 3,
+      "itinerary_text": "Day 1: 遇龙河漂流+十里画廊骑行+阳朔西街\nDay 2: 古镇+漓江电动竹筏+相公山\nDay 3: 岩洞探险 或 飞拉达",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "遇龙河漂流+十里画廊骑行+阳朔西街",
+          "activity_names": [
+            "遇龙河漂流",
+            "十里画廊骑行",
+            "阳朔西街"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "古镇+漓江电动竹筏+相公山",
+          "activity_names": [
+            "古镇",
+            "漓江电动竹筏",
+            "相公山"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "岩洞探险 或 飞拉达",
+          "activity_names": [
+            "岩洞探险 或 飞拉达"
+          ]
+        }
+      ],
+      "regular_items": [
+        "遇龙河漂流",
+        "十里画廊骑行",
+        "阳朔西街",
+        "古镇",
+        "漓江电动竹筏",
+        "相公山",
+        "全地形山地车",
+        "岩洞探险",
+        "中餐烹饪体验"
+      ],
+      "optional_items": [],
+      "regular_item_codes": [
+        "YS-ACTIVITY-07",
+        "YS-ACTIVITY-03",
+        "YS-ACTIVITY-08",
+        "YS-ACTIVITY-04",
+        "YS-ACTIVITY-06",
+        "YS-TICKET-02",
+        "YS-ACTIVITY-02",
+        "YS-ACTIVITY-05",
+        "YS-ACTIVITY-01"
+      ],
+      "optional_item_codes": [],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "阳朔",
+        "raw_product_name": "阳朔演示产品 3 日（YS-P-02）"
+      }
+    },
+    {
+      "product_id": "ZJJ-P-01",
+      "city": "张家界",
+      "product_name": "张家界演示产品 2 日（ZJJ-P-01）",
+      "duration_days": 2,
+      "itinerary_text": "Day 1: 天门山+三下锅\nDay 2: 森林公园+魅力湘西",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "天门山+三下锅",
+          "activity_names": [
+            "天门山",
+            "三下锅"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "森林公园+魅力湘西",
+          "activity_names": [
+            "森林公园",
+            "魅力湘西"
+          ]
+        }
+      ],
+      "regular_items": [
+        "天门山国家森林公园",
+        "张家界国家森林公园"
+      ],
+      "optional_items": [
+        "三下锅",
+        "魅力湘西表演"
+      ],
+      "regular_item_codes": [
+        "ZJJ-TICKET-04",
+        "ZJJ-TICKET-05"
+      ],
+      "optional_item_codes": [
+        "ZJJ-ACTIVITY-02",
+        "ZJJ-ACTIVITY-05"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "张家界",
+        "raw_product_name": "张家界演示产品 2 日（ZJJ-P-01）"
+      }
+    },
+    {
+      "product_id": "ZJJ-P-02",
+      "city": "张家界",
+      "product_name": "张家界演示产品 3 日（ZJJ-P-02）",
+      "duration_days": 3,
+      "itinerary_text": "Day 1: 天门山+三下锅\nDay 2: 森林公园+魅力湘西\nDay 3: 芙蓉镇+凤凰古城 或 七星山飞拉达+七十二奇楼",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "天门山+三下锅",
+          "activity_names": [
+            "天门山",
+            "三下锅"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "森林公园+魅力湘西",
+          "activity_names": [
+            "森林公园",
+            "魅力湘西"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "芙蓉镇+凤凰古城 或 七星山飞拉达+七十二奇楼",
+          "activity_names": [
+            "芙蓉镇",
+            "凤凰古城 或 七星山飞拉达",
+            "七十二奇楼"
+          ]
+        }
+      ],
+      "regular_items": [
+        "天门山国家森林公园",
+        "张家界国家森林公园",
+        "芙蓉镇",
+        "苗族长桌宴",
+        "凤凰古城",
+        "七星山飞拉达",
+        "七十二奇楼"
+      ],
+      "optional_items": [
+        "三下锅",
+        "魅力湘西表演"
+      ],
+      "regular_item_codes": [
+        "ZJJ-TICKET-04",
+        "ZJJ-TICKET-05",
+        "ZJJ-TICKET-07",
+        "ZJJ-ACTIVITY-04",
+        "ZJJ-TICKET-02",
+        "ZJJ-ACTIVITY-01",
+        "ZJJ-TICKET-01"
+      ],
+      "optional_item_codes": [
+        "ZJJ-ACTIVITY-02",
+        "ZJJ-ACTIVITY-05"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "张家界",
+        "raw_product_name": "张家界演示产品 3 日（ZJJ-P-02）"
+      }
+    },
+    {
+      "product_id": "GZ-P-01",
+      "city": "广州",
+      "product_name": "广州演示产品 1 日（GZ-P-01）",
+      "duration_days": 1,
+      "itinerary_text": "Day 1: 世界工厂探秘+市场淘宝+网红直播基地+冰啤收尾",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "世界工厂探秘+市场淘宝+网红直播基地+冰啤收尾",
+          "activity_names": [
+            "世界工厂探秘",
+            "市场淘宝",
+            "网红直播基地",
+            "冰啤收尾"
+          ]
+        }
+      ],
+      "regular_items": [
+        "世界工厂探秘",
+        "市场淘宝"
+      ],
+      "optional_items": [
+        "网红直播基地探访",
+        "冰啤收尾"
+      ],
+      "regular_item_codes": [
+        "GZ-ACTIVITY-02",
+        "GZ-ACTIVITY-07"
+      ],
+      "optional_item_codes": [
+        "GZ-ACTIVITY-10",
+        "GZ-ACTIVITY-03"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "广州",
+        "raw_product_name": "广州演示产品 1 日（GZ-P-01）"
+      }
+    },
+    {
+      "product_id": "GZ-P-02",
+      "city": "广州",
+      "product_name": "广州演示产品 2 日（GZ-P-02）",
+      "duration_days": 2,
+      "itinerary_text": "Day 1: 西关寻踪+沙面+永庆坊)+非遗体验+荔湾博物馆+广州塔+夜市大排档\nDay 2: 古龙峡+SPA自助",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "西关寻踪+沙面+永庆坊)+非遗体验+荔湾博物馆+广州塔+夜市大排档",
+          "activity_names": [
+            "西关寻踪",
+            "沙面",
+            "永庆坊)",
+            "非遗体验",
+            "荔湾博物馆",
+            "广州塔",
+            "夜市大排档"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "古龙峡+SPA自助",
+          "activity_names": [
+            "古龙峡",
+            "SPA自助"
+          ]
+        }
+      ],
+      "regular_items": [
+        "陈家祠",
+        "沙面",
+        "永庆坊",
+        "荔湾博物馆",
+        "广州塔",
+        "古龙峡"
+      ],
+      "optional_items": [
+        "非遗体验",
+        "夜市大排档",
+        "SPA自助"
+      ],
+      "regular_item_codes": [
+        "GZ-TICKET-08",
+        "GZ-ACTIVITY-09",
+        "GZ-ACTIVITY-08",
+        "GZ-TICKET-06",
+        "GZ-TICKET-05",
+        "GZ-TICKET-03"
+      ],
+      "optional_item_codes": [
+        "GZ-ACTIVITY-11",
+        "GZ-ACTIVITY-06",
+        "GZ-ACTIVITY-01"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "广州",
+        "raw_product_name": "广州演示产品 2 日（GZ-P-02）"
+      }
+    },
+    {
+      "product_id": "GZ-P-03",
+      "city": "广州",
+      "product_name": "广州演示产品 3 日（GZ-P-03）",
+      "duration_days": 3,
+      "itinerary_text": "Day 1: 西关寻踪+沙面+永庆坊)+非遗体验+荔湾博物馆+广州塔+夜市大排档\nDay 2: 越秀公园+南越王博物院+中山纪念堂+咏春拳体验+地道粤菜\nDay 3: 古龙峡+SPA自助",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "西关寻踪+沙面+永庆坊)+非遗体验+荔湾博物馆+广州塔+夜市大排档",
+          "activity_names": [
+            "西关寻踪",
+            "沙面",
+            "永庆坊)",
+            "非遗体验",
+            "荔湾博物馆",
+            "广州塔",
+            "夜市大排档"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "越秀公园+南越王博物院+中山纪念堂+咏春拳体验+地道粤菜",
+          "activity_names": [
+            "越秀公园",
+            "南越王博物院",
+            "中山纪念堂",
+            "咏春拳体验",
+            "地道粤菜"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "古龙峡+SPA自助",
+          "activity_names": [
+            "古龙峡",
+            "SPA自助"
+          ]
+        }
+      ],
+      "regular_items": [
+        "陈家祠",
+        "沙面",
+        "永庆坊",
+        "荔湾博物馆",
+        "广州塔",
+        "越秀公园",
+        "南越王博物院",
+        "中山纪念堂",
+        "古龙峡"
+      ],
+      "optional_items": [
+        "非遗体验",
+        "夜市大排档",
+        "咏春拳体验",
+        "地道粤菜",
+        "SPA自助"
+      ],
+      "regular_item_codes": [
+        "GZ-TICKET-08",
+        "GZ-ACTIVITY-09",
+        "GZ-ACTIVITY-08",
+        "GZ-TICKET-06",
+        "GZ-TICKET-05",
+        "GZ-TICKET-07",
+        "GZ-TICKET-02",
+        "GZ-TICKET-01",
+        "GZ-TICKET-03"
+      ],
+      "optional_item_codes": [
+        "GZ-ACTIVITY-11",
+        "GZ-ACTIVITY-06",
+        "GZ-ACTIVITY-04",
+        "GZ-ACTIVITY-05",
+        "GZ-ACTIVITY-01"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "广州",
+        "raw_product_name": "广州演示产品 3 日（GZ-P-03）"
+      }
+    },
+    {
+      "product_id": "GZH-P-01",
+      "city": "贵州",
+      "product_name": "贵州演示产品 4 日（GZH-P-01）",
+      "duration_days": 4,
+      "itinerary_text": "Day 1: 甲秀楼+青岩古镇\nDay 2: 施洞苗银村+下司古镇\nDay 3: 肇兴侗寨\nDay 4: 荔波小七孔",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "甲秀楼+青岩古镇",
+          "activity_names": [
+            "甲秀楼",
+            "青岩古镇"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "施洞苗银村+下司古镇",
+          "activity_names": [
+            "施洞苗银村",
+            "下司古镇"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "肇兴侗寨",
+          "activity_names": [
+            "肇兴侗寨"
+          ]
+        },
+        {
+          "day_number": 4,
+          "raw_text": "荔波小七孔",
+          "activity_names": [
+            "荔波小七孔"
+          ]
+        }
+      ],
+      "regular_items": [
+        "甲秀楼",
+        "青岩古镇",
+        "施洞苗银村",
+        "下司古镇",
+        "肇兴侗寨",
+        "荔波小七孔"
+      ],
+      "optional_items": [],
+      "regular_item_codes": [
+        "GUIZ-TICKET-03",
+        "GUIZ-TICKET-06",
+        "GUIZ-TICKET-02",
+        "GUIZ-TICKET-01",
+        "GUIZ-TICKET-04",
+        "GUIZ-TICKET-05"
+      ],
+      "optional_item_codes": [],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "贵州",
+        "raw_product_name": "贵州演示产品 4 日（GZH-P-01）"
+      }
+    },
+    {
+      "product_id": "YN-P-01",
+      "city": "云南",
+      "product_name": "云南演示产品 5 日（YN-P-01）",
+      "duration_days": 5,
+      "itinerary_text": "Day 1: 昆明石林+昆明老街\nDay 2: 大理古城+白族文化体验\nDay 3: 洱海+丽江古城+纳西文化体验\nDay 4: 香格里拉+虎跳峡+独克宗古城+唐卡绘制体验\nDay 5: 普达措国家公园+返回丽江",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "昆明石林+昆明老街",
+          "activity_names": [
+            "昆明石林",
+            "昆明老街"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "大理古城+白族文化体验",
+          "activity_names": [
+            "大理古城",
+            "白族文化体验"
+          ]
+        },
+        {
+          "day_number": 3,
+          "raw_text": "洱海+丽江古城+纳西文化体验",
+          "activity_names": [
+            "洱海",
+            "丽江古城",
+            "纳西文化体验"
+          ]
+        },
+        {
+          "day_number": 4,
+          "raw_text": "香格里拉+虎跳峡+独克宗古城+唐卡绘制体验",
+          "activity_names": [
+            "香格里拉",
+            "虎跳峡",
+            "独克宗古城",
+            "唐卡绘制体验"
+          ]
+        },
+        {
+          "day_number": 5,
+          "raw_text": "普达措国家公园+返回丽江",
+          "activity_names": [
+            "普达措国家公园",
+            "返回丽江"
+          ]
+        }
+      ],
+      "regular_items": [
+        "昆明石林",
+        "昆明老街",
+        "大理古城",
+        "白族文化体验",
+        "洱海",
+        "丽江古城",
+        "纳西文化体验",
+        "香格里拉",
+        "虎跳峡",
+        "独克宗古城",
+        "唐卡绘制体验",
+        "普达措国家公园",
+        "返回丽江"
+      ],
+      "optional_items": [],
+      "regular_item_codes": [
+        "YN-TICKET-10",
+        "YN-ACTIVITY-05",
+        "YN-TICKET-03",
+        "YN-ACTIVITY-07",
+        "YN-TICKET-11",
+        "YN-TICKET-01",
+        "YN-ACTIVITY-09",
+        "YN-TICKET-12",
+        "YN-TICKET-09",
+        "YN-TICKET-08",
+        "YN-ACTIVITY-03",
+        "YN-TICKET-05",
+        "YN-ACTIVITY-11"
+      ],
+      "optional_item_codes": [],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "云南",
+        "raw_product_name": "云南演示产品 5 日（YN-P-01）"
+      }
+    },
+    {
+      "product_id": "CD-P-01",
+      "city": "成都",
+      "product_name": "成都演示产品 2 日（CD-P-01）",
+      "duration_days": 2,
+      "itinerary_text": "Day 1: 武侯祠+成都博物馆+太古里+川剧变脸\nDay 2: 大熊猫基地+人民公园+宽窄巷子+串串",
+      "day_plans": [
+        {
+          "day_number": 1,
+          "raw_text": "武侯祠+成都博物馆+太古里+川剧变脸",
+          "activity_names": [
+            "武侯祠",
+            "成都博物馆",
+            "太古里",
+            "川剧变脸"
+          ]
+        },
+        {
+          "day_number": 2,
+          "raw_text": "大熊猫基地+人民公园+宽窄巷子+串串",
+          "activity_names": [
+            "大熊猫基地",
+            "人民公园",
+            "宽窄巷子",
+            "串串"
+          ]
+        }
+      ],
+      "regular_items": [
+        "武侯祠",
+        "成都博物馆",
+        "太古里",
+        "大熊猫基地",
+        "人民公园",
+        "宽窄巷子"
+      ],
+      "optional_items": [
+        "川剧变脸表演",
+        "串串"
+      ],
+      "regular_item_codes": [
+        "CD-TICKET-03",
+        "CD-TICKET-02",
+        "CD-ACTIVITY-03",
+        "CD-TICKET-01",
+        "CD-ACTIVITY-02",
+        "CD-ACTIVITY-04"
+      ],
+      "optional_item_codes": [
+        "CD-ACTIVITY-05",
+        "CD-ACTIVITY-01"
+      ],
+      "metadata": {
+        "source": "data/products/product_library.csv",
+        "raw_city": "成都",
+        "raw_product_name": "成都演示产品 2 日（CD-P-01）"
+      }
+    }
+  ]
+}

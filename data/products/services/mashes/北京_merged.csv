@@ -1,0 +1,29 @@
+项目编号,城市,服务类目,项目名称,项目说明,单价,单价（旺季）,单位,项目备注
+BJ-ACTIVITY-01,北京,活动,梨园京剧,Synthetic demo service; not a supplier offer.,250,287,人,DEMO DATA ONLY
+BJ-ACTIVITY-02,北京,活动,汉服体验,Synthetic demo service; not a supplier offer.,270,307,人,DEMO DATA ONLY
+BJ-ACTIVITY-03,北京,活动,涮肉,Synthetic demo service; not a supplier offer.,136,173,人,DEMO DATA ONLY
+BJ-ACTIVITY-04,北京,活动,烤鸭,Synthetic demo service; not a supplier offer.,247,284,人,DEMO DATA ONLY
+BJ-ACTIVITY-05,北京,活动,胡同游,Synthetic demo service; not a supplier offer.,200,237,人,DEMO DATA ONLY
+BJ-ACTIVITY-06,北京,活动,胡同酒馆,Synthetic demo service; not a supplier offer.,216,253,人,DEMO DATA ONLY
+BJ-TICKET-01,北京,门票,天坛,Synthetic demo service; not a supplier offer.,161,198,人,DEMO DATA ONLY
+BJ-TICKET-02,北京,门票,天安门广场,Synthetic demo service; not a supplier offer.,0,0,人,DEMO DATA ONLY 用户确认免费（演示规则）
+BJ-TICKET-03,北京,门票,奥林匹克公园,Synthetic demo service; not a supplier offer.,0,0,人,DEMO DATA ONLY 用户确认免费（演示规则）
+BJ-TICKET-04,北京,门票,慕田峪长城,Synthetic demo service; not a supplier offer.,132,169,人,DEMO DATA ONLY
+BJ-TICKET-05,北京,门票,故宫,Synthetic demo service; not a supplier offer.,106,143,人,DEMO DATA ONLY
+BJ-TICKET-06,北京,门票,景山,Synthetic demo service; not a supplier offer.,202,239,人,DEMO DATA ONLY
+BJ-TICKET-07,北京,门票,雍和宫,Synthetic demo service; not a supplier offer.,172,209,人,DEMO DATA ONLY
+BJ-TICKET-08,北京,门票,颐和园,Synthetic demo service; not a supplier offer.,247,284,人,DEMO DATA ONLY
+BJ-TICKET-09,北京,门票,人民大会堂,Synthetic demo service; not a supplier offer.,0,0,人,DEMO DATA ONLY 用户确认免费（演示规则）
+BJ-TICKET-10,北京,门票,毛泽东纪念堂,Synthetic demo service; not a supplier offer.,0,0,人,DEMO DATA ONLY 用户确认免费（演示规则）
+BJ-GUIDE-01,北京,导游,英文导游-初级,Synthetic demo service; not a supplier offer.,251,288,天,DEMO DATA ONLY
+BJ-GUIDE-02,北京,导游,英文导游-高级,Synthetic demo service; not a supplier offer.,208,245,天,DEMO DATA ONLY
+BJ-HOTEL-01,北京,酒店,演示住宿 BJ-HOTEL-01,Synthetic demo service; not a supplier offer.,224,261,间,DEMO DATA ONLY
+BJ-HOTEL-02,北京,酒店,演示住宿 BJ-HOTEL-02,Synthetic demo service; not a supplier offer.,206,243,间,DEMO DATA ONLY
+BJ-HOTEL-03,北京,酒店,演示住宿 BJ-HOTEL-03,Synthetic demo service; not a supplier offer.,275,312,间,DEMO DATA ONLY
+BJ-TRANS-01,北京,车辆,5座车,Synthetic demo service; not a supplier offer.,143,180,天,DEMO DATA ONLY
+BJ-TRANS-02,北京,车辆,7座车,Synthetic demo service; not a supplier offer.,214,251,天,DEMO DATA ONLY
+BJ-TRANS-03,北京,车辆,接送北京南站,Synthetic demo service; not a supplier offer.,181,218,次,DEMO DATA ONLY
+BJ-TRANS-04,北京,车辆,接送首都机场,Synthetic demo service; not a supplier offer.,197,234,次,DEMO DATA ONLY
+BJ-TRANS-05,北京,车辆,接送大兴机场,Synthetic demo service; not a supplier offer.,241,278,次,DEMO DATA ONLY
+BJ-TRANS-06,北京,打车,滴滴快车,Synthetic demo service; not a supplier offer.,113,150,天,DEMO DATA ONLY
+BJ-TRANS-07,北京,打车,滴滴快车,Synthetic demo service; not a supplier offer.,266,303,天,DEMO DATA ONLY

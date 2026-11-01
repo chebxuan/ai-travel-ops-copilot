@@ -1,0 +1,59 @@
+城市 (City),产品编号 (ProductID),产品名称 (ProductName),行程天数 (Duration),每日行程 (Daily Itinerary),常规项目 (Regular Items),可选项目 (Optional Items),常规项目项目编号列表,可选项目项目编号列表
+北京,BJ-P-01,北京演示产品 2 日（BJ-P-01）,2,"Day 1: 天安门广场+毛泽东纪念堂+人民大会堂+故宫+景山+胡同什刹海+京剧演出和晚餐
+Day 2: 慕田峪长城+颐和园+涮肉","天安门广场, 毛泽东纪念堂, 人民大会堂, 故宫, 景山, 胡同游, 慕田峪长城, 颐和园","梨园京剧, 涮肉","BJ-TICKET-02,BJ-TICKET-10,BJ-TICKET-09,BJ-TICKET-05,BJ-TICKET-06,BJ-ACTIVITY-05,BJ-TICKET-04,BJ-TICKET-08","BJ-ACTIVITY-01,BJ-ACTIVITY-03"
+北京,BJ-P-02,北京演示产品 3 日（BJ-P-02）,3,"Day 1: 天安门广场+毛泽东纪念堂+人民大会堂+故宫+景山+胡同什刹海+京剧演出和晚餐
+Day 2: 慕田峪长城+颐和园+涮肉
+Day 3: 雍和宫+天坛+烤鸭","天安门广场, 毛泽东纪念堂, 人民大会堂, 故宫, 景山, 胡同游, 慕田峪长城, 颐和园, 雍和宫, 天坛","梨园京剧, 涮肉, 烤鸭","BJ-TICKET-02,BJ-TICKET-10,BJ-TICKET-09,BJ-TICKET-05,BJ-TICKET-06,BJ-ACTIVITY-05,BJ-TICKET-04,BJ-TICKET-08,BJ-TICKET-07,BJ-TICKET-01","BJ-ACTIVITY-01,BJ-ACTIVITY-03,BJ-ACTIVITY-04"
+北京,BJ-P-03,北京演示产品 4 日（BJ-P-03）,4,"Day 1: 天坛+雍和宫+京剧演出和晚餐
+Day 2: 慕田峪长城+奥林匹克公园+涮肉
+Day 3: 天安门广场+毛泽东纪念堂+人民大会堂+故宫+景山+胡同什刹海+烤鸭
+Day 4: 颐和园+汉服体验+胡同酒馆","天坛, 雍和宫, 慕田峪长城, 奥林匹克公园, 天安门广场, 毛泽东纪念堂, 人民大会堂, 故宫, 景山, 胡同游, 颐和园","梨园京剧, 涮肉, 烤鸭, 汉服体验, 胡同酒馆","BJ-TICKET-01,BJ-TICKET-07,BJ-TICKET-04,BJ-TICKET-03,BJ-TICKET-02,BJ-TICKET-10,BJ-TICKET-09,BJ-TICKET-05,BJ-TICKET-06,BJ-ACTIVITY-05,BJ-TICKET-08","BJ-ACTIVITY-01,BJ-ACTIVITY-03,BJ-ACTIVITY-04,BJ-ACTIVITY-02,BJ-ACTIVITY-06"
+上海,SH-P-01,上海演示产品 2 日（SH-P-01）,2,"Day 1: 人民公园+上海博物馆+豫园+城隍庙+外滩CW+黄浦江夜游+外滩用餐
+Day 2: 中共一大+静安寺+武康路+法租界小酌","人民公园 (上海), 上海博物馆, 豫园, 城隍庙, 外滩, 中共一大会址纪念馆, 静安寺, 武康路","黄浦江夜游, 外滩用餐, 法租界小酌","SH-TICKET-03, SH-TICKET-01, SH-TICKET-06, SH-TICKET-04, SH-ACTIVITY-01, SH-TICKET-02, SH-TICKET-08, SH-ACTIVITY-04","SH-ACTIVITY-08, SH-ACTIVITY-02, SH-ACTIVITY-06"
+上海,SH-P-02,上海演示产品 3 日（SH-P-02）,3,"Day 1: 人民公园+上海博物馆+豫园+城隍庙+外滩CW+黄浦江夜游+外滩用餐
+Day 2: 朱家角古镇+非遗/汉服体验+本帮菜
+Day 3: 中共一大+静安寺+武康路+法租界小酌","人民公园 (上海), 上海博物馆, 豫园, 城隍庙, 外滩, 朱家角古镇, 中共一大会址纪念馆, 静安寺, 武康路","黄浦江夜游, 外滩用餐, 非遗老布手工体验, 本帮菜, 法租界小酌","SH-TICKET-03, SH-TICKET-01, SH-TICKET-06, SH-TICKET-04, SH-ACTIVITY-01, SH-TICKET-05, SH-TICKET-02, SH-TICKET-08, SH-ACTIVITY-04","SH-ACTIVITY-08, SH-ACTIVITY-02, SH-ACTIVITY-07, SH-ACTIVITY-05, SH-ACTIVITY-03, SH-ACTIVITY-06"
+上海,SH-P-03,上海演示产品 4 日（SH-P-03）,4,"Day 1: 人民公园+上海博物馆+豫园+城隍庙+外滩CW+外滩用餐
+Day 2: 朱家角古镇+非遗/汉服体验+本帮菜
+Day 3: 中共一大+静安寺+武康路+法租界小酌
+Day 4: 迪士尼","人民公园 (上海), 上海博物馆, 豫园, 城隍庙, 外滩, 朱家角古镇, 中共一大会址纪念馆, 静安寺, 武康路, 迪士尼乐园","外滩用餐, 非遗老布手工体验, 本帮菜, 法租界小酌","SH-TICKET-03, SH-TICKET-01, SH-TICKET-06, SH-TICKET-04, SH-ACTIVITY-01, SH-TICKET-05, SH-TICKET-02, SH-TICKET-08, SH-ACTIVITY-04, SH-TICKET-07","SH-ACTIVITY-02, SH-ACTIVITY-07, SH-ACTIVITY-05, SH-ACTIVITY-03, SH-ACTIVITY-06"
+重庆,CQ-P-01,重庆演示产品 2 日（CQ-P-01）,2,"Day 1: 人民大礼堂+山城巷+长江索道+下浩里+盖碗茶+川剧变脸
+Day 2: 武隆 或 大足石刻+磁器口古镇","重庆人民大礼堂, 山城巷传统风貌区, 长江索道, 下浩里, 武隆, 大足石刻, 麻花制作体验","盖碗茶, 川剧变脸表演, 两江夜游, 洪崖洞火锅","CQ-TICKET-01, CQ-ACTIVITY-05, CQ-TICKET-05, CQ-ACTIVITY-03, CQ-TICKET-03, CQ-TICKET-02, CQ-ACTIVITY-09","CQ-ACTIVITY-08, CQ-ACTIVITY-06, CQ-ACTIVITY-04, CQ-ACTIVITY-07"
+重庆,CQ-P-02,重庆演示产品 3 日（CQ-P-02）,3,"Day 1: 人民大礼堂+山城巷+长江索道+下浩里+盖碗茶+川剧变脸
+Day 2: 武隆+两江游+洪崖洞火锅
+Day 3: 大足石刻+磁器口古镇/制作麻花体验","重庆人民大礼堂, 山城巷传统风貌区, 长江索道, 下浩里, 武隆, 大足石刻, 麻花制作体验","盖碗茶, 川剧变脸表演, 两江夜游, 洪崖洞火锅","CQ-TICKET-01, CQ-ACTIVITY-05, CQ-TICKET-05, CQ-ACTIVITY-03, CQ-TICKET-03, CQ-TICKET-02, CQ-ACTIVITY-09","CQ-ACTIVITY-08, CQ-ACTIVITY-06, CQ-ACTIVITY-04, CQ-ACTIVITY-07"
+重庆,CQ-P-03,重庆演示产品 5 日（CQ-P-03）,5,"Day 1: 重庆演示城市路线
+Day 2: 大足演示文化路线
+Day 3: 三峡游轮（分日安排待确认）","重庆人民大礼堂,山城巷传统风貌区,长江索道,下浩里,盖碗茶,洪崖洞火锅,大足石刻,三峡游轮",,"CQ-TICKET-01,CQ-ACTIVITY-05,CQ-TICKET-05,CQ-ACTIVITY-03,CQ-ACTIVITY-08,CQ-ACTIVITY-07,CQ-TICKET-02,CQ-ACTIVITY-02",
+西安,XA-P-01,西安演示产品 2 日（XA-P-01）,2,"Day 1: 兵马俑博物馆+兵马俑DIY+骊山园+唐乐舞表演
+Day 2: 明城墙骑行+钟鼓楼+回民街+大雁塔","秦始皇兵马俑博物馆, 兵马俑DIY体验, 骊山园, 西安城墙自行车租赁, 钟鼓楼, 回民街, 大慈恩寺 (大雁塔)",唐乐舞表演,"XA-TICKET-04, XA-ACTIVITY-01, XA-TICKET-07, XA-ACTIVITY-04, XA-TICKET-06, XA-ACTIVITY-03, XA-TICKET-02",XA-ACTIVITY-02
+西安,XA-P-02,西安演示产品 3 日（XA-P-02）,3,"Day 1: 兵马俑博物馆+兵马俑DIY+骊山园+唐乐舞表演
+Day 2: 明城墙骑行+钟鼓楼+回民街+大雁塔
+Day 3: 大唐芙蓉园+大唐不夜城","秦始皇兵马俑博物馆, 兵马俑DIY体验, 骊山园, 西安城墙自行车租赁, 钟鼓楼, 回民街, 大慈恩寺 (大雁塔), 大唐芙蓉园, 大唐不夜城",唐乐舞表演,"XA-TICKET-04, XA-ACTIVITY-01, XA-TICKET-07, XA-ACTIVITY-04, XA-TICKET-06, XA-ACTIVITY-03, XA-TICKET-02, XA-TICKET-01, XA-ACTIVITY-05",XA-ACTIVITY-02
+阳朔,YS-P-01,阳朔演示产品 2 日（YS-P-01）,2,"Day 1: 遇龙河漂流+十里画廊骑行+西街
+Day 2: 古镇+漓江电动竹筏+相公山","遇龙河漂流, 十里画廊骑行, 阳朔西街, 古镇, 漓江电动竹筏, 相公山",,"YS-ACTIVITY-07, YS-ACTIVITY-03, YS-ACTIVITY-08, YS-ACTIVITY-04, YS-ACTIVITY-06, YS-TICKET-02",
+阳朔,YS-P-02,阳朔演示产品 3 日（YS-P-02）,3,"Day 1: 遇龙河漂流+十里画廊骑行+阳朔西街
+Day 2: 古镇+漓江电动竹筏+相公山
+Day 3: 岩洞探险 或 飞拉达","遇龙河漂流, 十里画廊骑行, 阳朔西街, 古镇, 漓江电动竹筏, 相公山, 全地形山地车, 岩洞探险, 中餐烹饪体验",,"YS-ACTIVITY-07, YS-ACTIVITY-03, YS-ACTIVITY-08, YS-ACTIVITY-04, YS-ACTIVITY-06, YS-TICKET-02, YS-ACTIVITY-02, YS-ACTIVITY-05, YS-ACTIVITY-01",
+张家界,ZJJ-P-01,张家界演示产品 2 日（ZJJ-P-01）,2,"Day 1: 天门山+三下锅
+Day 2: 森林公园+魅力湘西","天门山国家森林公园, 张家界国家森林公园","三下锅, 魅力湘西表演","ZJJ-TICKET-04, ZJJ-TICKET-05","ZJJ-ACTIVITY-02, ZJJ-ACTIVITY-05"
+张家界,ZJJ-P-02,张家界演示产品 3 日（ZJJ-P-02）,3,"Day 1: 天门山+三下锅
+Day 2: 森林公园+魅力湘西
+Day 3: 芙蓉镇+凤凰古城 或 七星山飞拉达+七十二奇楼","天门山国家森林公园, 张家界国家森林公园, 芙蓉镇, 苗族长桌宴, 凤凰古城, 七星山飞拉达, 七十二奇楼","三下锅, 魅力湘西表演","ZJJ-TICKET-04, ZJJ-TICKET-05, ZJJ-TICKET-07, ZJJ-ACTIVITY-04, ZJJ-TICKET-02, ZJJ-ACTIVITY-01, ZJJ-TICKET-01","ZJJ-ACTIVITY-02, ZJJ-ACTIVITY-05"
+广州,GZ-P-01,广州演示产品 1 日（GZ-P-01）,1,Day 1: 世界工厂探秘+市场淘宝+网红直播基地+冰啤收尾,"世界工厂探秘, 市场淘宝","网红直播基地探访, 冰啤收尾","GZ-ACTIVITY-02, GZ-ACTIVITY-07","GZ-ACTIVITY-10, GZ-ACTIVITY-03"
+广州,GZ-P-02,广州演示产品 2 日（GZ-P-02）,2,"Day 1: 西关寻踪+沙面+永庆坊)+非遗体验+荔湾博物馆+广州塔+夜市大排档
+Day 2: 古龙峡+SPA自助","陈家祠, 沙面, 永庆坊, 荔湾博物馆, 广州塔, 古龙峡","非遗体验, 夜市大排档, SPA自助","GZ-TICKET-08, GZ-ACTIVITY-09, GZ-ACTIVITY-08, GZ-TICKET-06, GZ-TICKET-05, GZ-TICKET-03","GZ-ACTIVITY-11, GZ-ACTIVITY-06, GZ-ACTIVITY-01"
+广州,GZ-P-03,广州演示产品 3 日（GZ-P-03）,3,"Day 1: 西关寻踪+沙面+永庆坊)+非遗体验+荔湾博物馆+广州塔+夜市大排档
+Day 2: 越秀公园+南越王博物院+中山纪念堂+咏春拳体验+地道粤菜
+Day 3: 古龙峡+SPA自助","陈家祠, 沙面, 永庆坊, 荔湾博物馆, 广州塔, 越秀公园, 南越王博物院, 中山纪念堂, 古龙峡","非遗体验, 夜市大排档, 咏春拳体验, 地道粤菜, SPA自助","GZ-TICKET-08, GZ-ACTIVITY-09, GZ-ACTIVITY-08, GZ-TICKET-06, GZ-TICKET-05, GZ-TICKET-07, GZ-TICKET-02, GZ-TICKET-01, GZ-TICKET-03","GZ-ACTIVITY-11, GZ-ACTIVITY-06, GZ-ACTIVITY-04, GZ-ACTIVITY-05, GZ-ACTIVITY-01"
+贵州,GZH-P-01,贵州演示产品 4 日（GZH-P-01）,4,"Day 1: 甲秀楼+青岩古镇
+Day 2: 施洞苗银村+下司古镇
+Day 3: 肇兴侗寨
+Day 4: 荔波小七孔","甲秀楼, 青岩古镇, 施洞苗银村, 下司古镇, 肇兴侗寨, 荔波小七孔",,"GUIZ-TICKET-03, GUIZ-TICKET-06, GUIZ-TICKET-02, GUIZ-TICKET-01, GUIZ-TICKET-04, GUIZ-TICKET-05",
+云南,YN-P-01,云南演示产品 5 日（YN-P-01）,5,"Day 1: 昆明石林+昆明老街
+Day 2: 大理古城+白族文化体验
+Day 3: 洱海+丽江古城+纳西文化体验
+Day 4: 香格里拉+虎跳峡+独克宗古城+唐卡绘制体验
+Day 5: 普达措国家公园+返回丽江","昆明石林, 昆明老街, 大理古城, 白族文化体验, 洱海, 丽江古城, 纳西文化体验, 香格里拉, 虎跳峡, 独克宗古城, 唐卡绘制体验, 普达措国家公园, 返回丽江",,"YN-TICKET-10, YN-ACTIVITY-05, YN-TICKET-03, YN-ACTIVITY-07, YN-TICKET-11, YN-TICKET-01, YN-ACTIVITY-09, YN-TICKET-12, YN-TICKET-09, YN-TICKET-08, YN-ACTIVITY-03, YN-TICKET-05, YN-ACTIVITY-11",
+成都,CD-P-01,成都演示产品 2 日（CD-P-01）,2,"Day 1: 武侯祠+成都博物馆+太古里+川剧变脸
+Day 2: 大熊猫基地+人民公园+宽窄巷子+串串","武侯祠, 成都博物馆, 太古里, 大熊猫基地, 人民公园, 宽窄巷子","川剧变脸表演, 串串","CD-TICKET-03, CD-TICKET-02, CD-ACTIVITY-03, CD-TICKET-01, CD-ACTIVITY-02, CD-ACTIVITY-04","CD-ACTIVITY-05, CD-ACTIVITY-01"

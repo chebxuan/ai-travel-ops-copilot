@@ -1,0 +1,257 @@
+{
+  "version": "public-demo-v1",
+  "products": {
+    "CQ-P-01": {
+      "day": 2,
+      "common_codes": [
+        "CQ-TICKET-01",
+        "CQ-ACTIVITY-05",
+        "CQ-TICKET-05",
+        "CQ-ACTIVITY-03"
+      ],
+      "branches": {
+        "wulong": {
+          "label": "Wulong Karst",
+          "codes": [
+            "CQ-TICKET-03"
+          ],
+          "car_code": "CQ-TRANS-05",
+          "excluded_optional": [
+            "洪崖洞火锅"
+          ]
+        },
+        "dazu": {
+          "label": "Dazu Rock Carvings & Ciqikou",
+          "codes": [
+            "CQ-TICKET-02",
+            "CQ-TICKET-04",
+            "CQ-ACTIVITY-09"
+          ],
+          "car_code": "CQ-TRANS-06",
+          "excluded_optional": [
+            "两江夜游"
+          ]
+        }
+      },
+      "evidence": "Synthetic demo configuration. Not production pricing evidence.",
+      "expected_names": {
+        "CQ-ACTIVITY-03": "下浩里",
+        "CQ-ACTIVITY-04": "两江夜游",
+        "CQ-ACTIVITY-05": "山城巷传统风貌区",
+        "CQ-ACTIVITY-06": "川剧变脸表演",
+        "CQ-ACTIVITY-07": "洪崖洞火锅",
+        "CQ-ACTIVITY-08": "盖碗茶",
+        "CQ-ACTIVITY-09": "麻花制作体验",
+        "CQ-TICKET-01": "重庆人民大礼堂",
+        "CQ-TICKET-02": "大足石刻",
+        "CQ-TICKET-03": "武隆",
+        "CQ-TICKET-04": "磁器口古镇",
+        "CQ-TICKET-05": "长江索道",
+        "CQ-TRANS-05": "7座市内+武隆往返",
+        "CQ-TRANS-06": "7座市内+大足石刻往返"
+      },
+      "confirmed_free_codes": [
+        "CQ-ACTIVITY-03",
+        "CQ-ACTIVITY-05",
+        "CQ-TICKET-04"
+      ]
+    },
+    "YS-P-02": {
+      "day": 3,
+      "common_codes": [
+        "YS-ACTIVITY-07",
+        "YS-ACTIVITY-03",
+        "YS-ACTIVITY-08",
+        "YS-ACTIVITY-04",
+        "YS-ACTIVITY-06",
+        "YS-TICKET-02",
+        "YS-ACTIVITY-02",
+        "YS-ACTIVITY-01"
+      ],
+      "branches": {
+        "cave": {
+          "label": "Cave Exploration",
+          "codes": [
+            "YS-ACTIVITY-05"
+          ]
+        },
+        "via_ferrata": {
+          "label": "Via Ferrata",
+          "codes": [
+            "YS-ACTIVITY-09"
+          ]
+        }
+      },
+      "evidence": "Synthetic demo configuration. Not production pricing evidence.",
+      "expected_names": {
+        "YS-ACTIVITY-01": "中餐烹饪体验",
+        "YS-ACTIVITY-02": "全地形山地车",
+        "YS-ACTIVITY-03": "十里画廊骑行",
+        "YS-ACTIVITY-04": "古镇",
+        "YS-ACTIVITY-05": "岩洞探险",
+        "YS-ACTIVITY-06": "漓江电动竹筏",
+        "YS-ACTIVITY-07": "遇龙河漂流",
+        "YS-ACTIVITY-08": "阳朔西街",
+        "YS-ACTIVITY-09": "飞拉达",
+        "YS-TICKET-02": "相公山"
+      },
+      "confirmed_free_codes": [
+        "YS-ACTIVITY-04",
+        "YS-ACTIVITY-08"
+      ]
+    },
+    "ZJJ-P-02": {
+      "day": 3,
+      "common_codes": [
+        "ZJJ-TICKET-04",
+        "ZJJ-TICKET-05"
+      ],
+      "branches": {
+        "heritage": {
+          "label": "Furong & Fenghuang",
+          "codes": [
+            "ZJJ-TICKET-07",
+            "ZJJ-ACTIVITY-04",
+            "ZJJ-TICKET-02"
+          ],
+          "car_code": "ZJJ-TRANS-04"
+        },
+        "adventure": {
+          "label": "Qixing Mountain Via Ferrata & 72 Wonder Tower",
+          "codes": [
+            "ZJJ-ACTIVITY-01",
+            "ZJJ-TICKET-01"
+          ]
+        }
+      },
+      "evidence": "Synthetic demo configuration. Not production pricing evidence.",
+      "expected_names": {
+        "ZJJ-ACTIVITY-01": "七星山飞拉达",
+        "ZJJ-ACTIVITY-02": "三下锅",
+        "ZJJ-ACTIVITY-04": "苗族长桌宴",
+        "ZJJ-ACTIVITY-05": "魅力湘西表演",
+        "ZJJ-TICKET-01": "七十二奇楼",
+        "ZJJ-TICKET-02": "凤凰古城",
+        "ZJJ-TICKET-04": "天门山国家森林公园",
+        "ZJJ-TICKET-05": "张家界国家森林公园",
+        "ZJJ-TICKET-07": "芙蓉镇",
+        "ZJJ-TRANS-04": "7座车"
+      },
+      "confirmed_free_codes": [
+        "ZJJ-ACTIVITY-04",
+        "ZJJ-TICKET-02"
+      ]
+    },
+    "CQ-P-03": {
+      "regular_codes": [
+        "CQ-TICKET-01",
+        "CQ-ACTIVITY-05",
+        "CQ-TICKET-05",
+        "CQ-ACTIVITY-03",
+        "CQ-ACTIVITY-08",
+        "CQ-ACTIVITY-07",
+        "CQ-TICKET-02",
+        "CQ-ACTIVITY-02"
+      ],
+      "land_service_days": 2,
+      "excluded": [
+        "Yichang port-to-station transfer",
+        "Yichang-to-Chongqing return train",
+        "Driver/guide meals and accommodation allowances"
+      ],
+      "evidence": "Synthetic demo configuration. Not production pricing evidence.",
+      "expected_names": {
+        "CQ-ACTIVITY-02": "三峡游轮",
+        "CQ-ACTIVITY-03": "下浩里",
+        "CQ-ACTIVITY-05": "山城巷传统风貌区",
+        "CQ-ACTIVITY-07": "洪崖洞火锅",
+        "CQ-ACTIVITY-08": "盖碗茶",
+        "CQ-TICKET-01": "重庆人民大礼堂",
+        "CQ-TICKET-02": "大足石刻",
+        "CQ-TICKET-05": "长江索道"
+      },
+      "confirmed_free_codes": [
+        "CQ-ACTIVITY-03",
+        "CQ-ACTIVITY-05"
+      ]
+    },
+    "BJ-P-01": {
+      "evidence": "Synthetic demo configuration. Not production pricing evidence.",
+      "expected_names": {
+        "BJ-ACTIVITY-01": "梨园京剧",
+        "BJ-ACTIVITY-03": "涮肉",
+        "BJ-ACTIVITY-05": "胡同游",
+        "BJ-TICKET-02": "天安门广场",
+        "BJ-TICKET-04": "慕田峪长城",
+        "BJ-TICKET-05": "故宫",
+        "BJ-TICKET-06": "景山",
+        "BJ-TICKET-08": "颐和园",
+        "BJ-TICKET-09": "人民大会堂",
+        "BJ-TICKET-10": "毛泽东纪念堂"
+      },
+      "confirmed_free_codes": [
+        "BJ-TICKET-02",
+        "BJ-TICKET-09",
+        "BJ-TICKET-10"
+      ]
+    },
+    "BJ-P-02": {
+      "evidence": "Synthetic demo configuration. Not production pricing evidence.",
+      "expected_names": {
+        "BJ-ACTIVITY-01": "梨园京剧",
+        "BJ-ACTIVITY-03": "涮肉",
+        "BJ-ACTIVITY-04": "烤鸭",
+        "BJ-ACTIVITY-05": "胡同游",
+        "BJ-TICKET-01": "天坛",
+        "BJ-TICKET-02": "天安门广场",
+        "BJ-TICKET-04": "慕田峪长城",
+        "BJ-TICKET-05": "故宫",
+        "BJ-TICKET-06": "景山",
+        "BJ-TICKET-07": "雍和宫",
+        "BJ-TICKET-08": "颐和园",
+        "BJ-TICKET-09": "人民大会堂",
+        "BJ-TICKET-10": "毛泽东纪念堂"
+      },
+      "confirmed_free_codes": [
+        "BJ-TICKET-02",
+        "BJ-TICKET-09",
+        "BJ-TICKET-10"
+      ]
+    },
+    "BJ-P-03": {
+      "evidence": "Synthetic demo configuration. Not production pricing evidence.",
+      "expected_names": {
+        "BJ-ACTIVITY-01": "梨园京剧",
+        "BJ-ACTIVITY-02": "汉服体验",
+        "BJ-ACTIVITY-03": "涮肉",
+        "BJ-ACTIVITY-04": "烤鸭",
+        "BJ-ACTIVITY-05": "胡同游",
+        "BJ-ACTIVITY-06": "胡同酒馆",
+        "BJ-TICKET-01": "天坛",
+        "BJ-TICKET-02": "天安门广场",
+        "BJ-TICKET-03": "奥林匹克公园",
+        "BJ-TICKET-04": "慕田峪长城",
+        "BJ-TICKET-05": "故宫",
+        "BJ-TICKET-06": "景山",
+        "BJ-TICKET-07": "雍和宫",
+        "BJ-TICKET-08": "颐和园",
+        "BJ-TICKET-09": "人民大会堂",
+        "BJ-TICKET-10": "毛泽东纪念堂"
+      },
+      "confirmed_free_codes": [
+        "BJ-TICKET-02",
+        "BJ-TICKET-03",
+        "BJ-TICKET-09",
+        "BJ-TICKET-10"
+      ]
+    }
+  },
+  "sales_policy": {
+    "id": "cost-times-1.3-v1",
+    "multiplier": "1.3",
+    "currency": "CNY",
+    "rounding": "ROUND_HALF_UP",
+    "decimal_places": 2,
+    "supplier_surcharge": "none_automatically_added"
+  }
+}

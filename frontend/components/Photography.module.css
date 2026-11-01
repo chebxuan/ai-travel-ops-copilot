@@ -1,0 +1,5 @@
+.photo { position:absolute; inset:0; overflow:hidden; }
+.image { object-fit:cover; transition:transform 1.1s ease; }
+.photo:hover .image { transform:scale(1.07); }
+.credit { position:absolute; bottom:8px; right:8px; padding:3px 6px; color:white; background:#142921b3; font-size:10px; line-height:1.5; max-width:80%; z-index:3; }
+.credit:focus-visible { outline:2px solid white; outline-offset:3px; }

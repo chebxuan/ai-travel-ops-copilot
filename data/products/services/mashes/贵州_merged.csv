@@ -1,0 +1,22 @@
+项目编号,城市,服务类目,项目名称,项目说明,单价,单价（旺季）,单位,项目备注
+GUIZ-ACTIVITY-01,贵州,活动,施洞大集,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+GUIZ-ACTIVITY-02,贵州,活动,蜡染体验,Synthetic demo service; not a supplier offer.,154,,,DEMO DATA ONLY
+GUIZ-ACTIVITY-03,贵州,活动,酿酒体验,Synthetic demo service; not a supplier offer.,201,,,DEMO DATA ONLY
+GUIZ-ACTIVITY-04,贵州,活动,苗银制作体验,Synthetic demo service; not a supplier offer.,230,,,DEMO DATA ONLY
+GUIZ-TICKET-01,贵州,门票,下司古镇,Synthetic demo service; not a supplier offer.,272,,,DEMO DATA ONLY
+GUIZ-TICKET-02,贵州,门票,施洞苗银村,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+GUIZ-TICKET-03,贵州,门票,甲秀楼,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+GUIZ-TICKET-04,贵州,门票,肇兴侗寨,Synthetic demo service; not a supplier offer.,296,,,DEMO DATA ONLY
+GUIZ-TICKET-05,贵州,门票,荔波小七孔,Synthetic demo service; not a supplier offer.,105,,,DEMO DATA ONLY
+GUIZ-TICKET-06,贵州,门票,青岩古镇,Synthetic demo service; not a supplier offer.,163,,,DEMO DATA ONLY
+GUIZ-GUIDE-01,贵州,导游,英文导游-初级,Synthetic demo service; not a supplier offer.,286,,,DEMO DATA ONLY
+GUIZ-HOTEL-01,贵州,酒店,演示住宿 GUIZ-HOTEL-01,Synthetic demo service; not a supplier offer.,271,,,DEMO DATA ONLY
+GUIZ-HOTEL-02,贵州,酒店,演示住宿 GUIZ-HOTEL-02,Synthetic demo service; not a supplier offer.,155,,,DEMO DATA ONLY
+GUIZ-HOTEL-03,贵州,酒店,演示住宿 GUIZ-HOTEL-03,Synthetic demo service; not a supplier offer.,295,,,DEMO DATA ONLY
+GUIZ-TRANS-01,贵州,车辆,5座车,Synthetic demo service; not a supplier offer.,186,,,DEMO DATA ONLY
+GUIZ-TRANS-02,贵州,车辆,7座车,Synthetic demo service; not a supplier offer.,118,,,DEMO DATA ONLY
+GUIZ-TRANS-03,贵州,车辆,接送贵阳龙洞堡机场,Synthetic demo service; not a supplier offer.,187,,,DEMO DATA ONLY
+GUIZ-TRANS-04,贵州,车辆,接送贵阳北站/东站,Synthetic demo service; not a supplier offer.,264,,,DEMO DATA ONLY
+GUIZ-TRANS-05,贵州,车辆,5座贵阳-荔波小七孔往返,Synthetic demo service; not a supplier offer.,190,,,DEMO DATA ONLY
+GUIZ-TRANS-06,贵州,车辆,滴滴快车,Synthetic demo service; not a supplier offer.,180,,,DEMO DATA ONLY
+GUIZ-ADD-01,贵州,补贴服务费,司导餐住补贴,Synthetic demo service; not a supplier offer.,202,,,DEMO DATA ONLY

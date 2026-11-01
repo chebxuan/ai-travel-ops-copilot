@@ -1,0 +1,139 @@
+{
+  "city_names": {
+    "北京": "Beijing",
+    "上海": "Shanghai",
+    "西安": "Xi’an",
+    "广州": "Guangzhou",
+    "重庆": "Chongqing",
+    "阳朔": "Yangshuo",
+    "张家界": "Zhangjiajie",
+    "贵州": "Guizhou",
+    "云南": "Yunnan",
+    "成都": "Chengdu"
+  },
+  "product_titles": {
+    "BJ-P-01": "Beijing demo / 2 days / BJ-P-01",
+    "BJ-P-02": "Beijing demo / 3 days / BJ-P-02",
+    "BJ-P-03": "Beijing demo / 4 days / BJ-P-03",
+    "SH-P-01": "Shanghai demo / 2 days / SH-P-01",
+    "SH-P-02": "Shanghai demo / 3 days / SH-P-02",
+    "SH-P-03": "Shanghai demo / 4 days / SH-P-03",
+    "CQ-P-01": "Chongqing demo / 2 days / CQ-P-01",
+    "CQ-P-02": "Chongqing demo / 3 days / CQ-P-02",
+    "CQ-P-03": "Chongqing demo / 5 days / CQ-P-03",
+    "XA-P-01": "Xi’an demo / 2 days / XA-P-01",
+    "XA-P-02": "Xi’an demo / 3 days / XA-P-02",
+    "YS-P-01": "Yangshuo demo / 2 days / YS-P-01",
+    "YS-P-02": "Yangshuo demo / 3 days / YS-P-02",
+    "ZJJ-P-01": "Zhangjiajie demo / 2 days / ZJJ-P-01",
+    "ZJJ-P-02": "Zhangjiajie demo / 3 days / ZJJ-P-02",
+    "GZ-P-01": "Guangzhou demo / 1 days / GZ-P-01",
+    "GZ-P-02": "Guangzhou demo / 2 days / GZ-P-02",
+    "GZ-P-03": "Guangzhou demo / 3 days / GZ-P-03",
+    "GZH-P-01": "Guizhou demo / 4 days / GZH-P-01",
+    "YN-P-01": "Yunnan demo / 5 days / YN-P-01",
+    "CD-P-01": "Chengdu demo / 2 days / CD-P-01"
+  },
+  "optional_labels": {
+    "梨园京剧": {
+      "name": "Peking Opera & Dinner",
+      "activity": "Peking Opera & Dinner"
+    },
+    "涮肉": {
+      "name": "Beijing Hotpot",
+      "activity": null
+    },
+    "烤鸭": {
+      "name": "Peking Duck",
+      "activity": null
+    },
+    "汉服体验": {
+      "name": "Hanfu Photography",
+      "activity": "Hanfu Shooting"
+    },
+    "胡同酒馆": {
+      "name": "Hutong Bar Visit",
+      "activity": null
+    },
+    "黄浦江夜游": {
+      "name": "Huangpu River Night Cruise",
+      "activity": "Huangpu River Night Cruise"
+    },
+    "外滩用餐": {
+      "name": "Dining by the Bund",
+      "activity": null
+    },
+    "法租界小酌": {
+      "name": "Drinks in the Former French Concession",
+      "activity": null
+    },
+    "非遗老布手工体验": {
+      "name": "Zhujiajiao Heritage Cloth Workshop",
+      "activity": "Zujiajiao Cloth Workshop"
+    },
+    "本帮菜": {
+      "name": "Shanghai Local Cuisine",
+      "activity": null
+    },
+    "盖碗茶": {
+      "name": "Gaiwan Tea",
+      "activity": null
+    },
+    "川剧变脸表演": {
+      "name": "Sichuan Opera Face-Changing",
+      "activity": "Sichuan Opera Face-Changing"
+    },
+    "两江夜游": {
+      "name": "Two Rivers Night Cruise",
+      "activity": null
+    },
+    "洪崖洞火锅": {
+      "name": "Chongqing Hotpot at Hongyadong",
+      "activity": null
+    },
+    "唐乐舞表演": {
+      "name": "Tang Dynasty Palace Show",
+      "activity": "Tang Dynasty Palace Show"
+    },
+    "三下锅": {
+      "name": "Tujia Sanxiaguo Hotpot",
+      "activity": null
+    },
+    "魅力湘西表演": {
+      "name": "Charming Xiangxi Show",
+      "activity": "Charming Xiangxi Show"
+    },
+    "网红直播基地探访": {
+      "name": "Live-Streaming Hub Visit",
+      "activity": "Live-Streaming Hub Visit"
+    },
+    "冰啤收尾": {
+      "name": "A Beer to End the Day",
+      "activity": null
+    },
+    "非遗体验": {
+      "name": "Lingnan Heritage Experience",
+      "activity": null
+    },
+    "夜市大排档": {
+      "name": "Night-Market Dining",
+      "activity": null
+    },
+    "SPA自助": {
+      "name": "Wellness SPA",
+      "activity": "Wellness SPA"
+    },
+    "咏春拳体验": {
+      "name": "Wing Chun Kung Fu",
+      "activity": "Wing Chun Kung Fu"
+    },
+    "地道粤菜": {
+      "name": "Cantonese Cuisine",
+      "activity": null
+    },
+    "串串": {
+      "name": "Chengdu Chuanchuan",
+      "activity": null
+    }
+  }
+}

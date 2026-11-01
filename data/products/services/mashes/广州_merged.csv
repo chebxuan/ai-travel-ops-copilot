@@ -1,0 +1,32 @@
+项目编号,城市,服务类目,项目名称,项目说明,单价,单价（旺季）,单位,项目备注
+GZ-ACTIVITY-01,广州,活动,SPA自助,Synthetic demo service; not a supplier offer.,157,,,DEMO DATA ONLY
+GZ-ACTIVITY-02,广州,活动,世界工厂探秘,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+GZ-ACTIVITY-03,广州,活动,冰啤收尾,Synthetic demo service; not a supplier offer.,146,,人,DEMO DATA ONLY
+GZ-ACTIVITY-04,广州,活动,咏春拳体验,Synthetic demo service; not a supplier offer.,163,,,DEMO DATA ONLY
+GZ-ACTIVITY-05,广州,活动,地道粤菜,Synthetic demo service; not a supplier offer.,221,,人,DEMO DATA ONLY
+GZ-ACTIVITY-06,广州,活动,夜市大排档,Synthetic demo service; not a supplier offer.,112,,人,DEMO DATA ONLY
+GZ-ACTIVITY-07,广州,活动,市场淘宝,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+GZ-ACTIVITY-08,广州,活动,永庆坊,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+GZ-ACTIVITY-09,广州,活动,沙面,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+GZ-ACTIVITY-10,广州,活动,网红直播基地探访,Synthetic demo service; not a supplier offer.,210,,,DEMO DATA ONLY
+GZ-ACTIVITY-11,广州,活动,非遗体验,Synthetic demo service; not a supplier offer.,169,,,DEMO DATA ONLY
+GZ-TICKET-01,广州,门票,中山纪念堂,Synthetic demo service; not a supplier offer.,111,,,DEMO DATA ONLY
+GZ-TICKET-02,广州,门票,南越王博物院,Synthetic demo service; not a supplier offer.,128,,,DEMO DATA ONLY
+GZ-TICKET-03,广州,门票,古龙峡,Synthetic demo service; not a supplier offer.,115,,,DEMO DATA ONLY
+GZ-TICKET-04,广州,门票,广州十三行博物馆,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+GZ-TICKET-05,广州,门票,广州塔,Synthetic demo service; not a supplier offer.,148,,,DEMO DATA ONLY
+GZ-TICKET-06,广州,门票,荔湾博物馆,Synthetic demo service; not a supplier offer.,223,,,DEMO DATA ONLY
+GZ-TICKET-07,广州,门票,越秀公园,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+GZ-TICKET-08,广州,门票,陈家祠,Synthetic demo service; not a supplier offer.,235,,,DEMO DATA ONLY
+GZ-GUIDE-01,广州,导游,英文导游-初级,Synthetic demo service; not a supplier offer.,206,,,DEMO DATA ONLY
+GZ-GUIDE-02,广州,导游,市场向导/买手,Synthetic demo service; not a supplier offer.,153,,次,DEMO DATA ONLY
+GZ-HOTEL-01,广州,酒店,演示住宿 GZ-HOTEL-01,Synthetic demo service; not a supplier offer.,132,,,DEMO DATA ONLY
+GZ-HOTEL-02,广州,酒店,演示住宿 GZ-HOTEL-02,Synthetic demo service; not a supplier offer.,164,,,DEMO DATA ONLY
+GZ-HOTEL-03,广州,酒店,演示住宿 GZ-HOTEL-03,Synthetic demo service; not a supplier offer.,149,,,DEMO DATA ONLY
+GZ-TRANS-01,广州,车辆,5座车,Synthetic demo service; not a supplier offer.,140,,,DEMO DATA ONLY
+GZ-TRANS-02,广州,车辆,7座车,Synthetic demo service; not a supplier offer.,129,,,DEMO DATA ONLY
+GZ-TRANS-03,广州,车辆,接送白云机场,Synthetic demo service; not a supplier offer.,250,,,DEMO DATA ONLY
+GZ-TRANS-04,广州,车辆,接送广州南站,Synthetic demo service; not a supplier offer.,257,,,DEMO DATA ONLY
+GZ-TRANS-05,广州,车辆,市内+古龙峡往返,Synthetic demo service; not a supplier offer.,185,,天,DEMO DATA ONLY
+GZ-TRANS-06,广州,打车,滴滴快车,Synthetic demo service; not a supplier offer.,297,,天,DEMO DATA ONLY
+GZ-TRANS-07,广州,打车,滴滴快车,Synthetic demo service; not a supplier offer.,294,,天,DEMO DATA ONLY

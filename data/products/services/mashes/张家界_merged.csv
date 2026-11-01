@@ -1,0 +1,23 @@
+项目编号,城市,服务类目,项目名称,项目说明,单价,单价（旺季）,单位,项目备注
+ZJJ-ACTIVITY-01,张家界,活动,七星山飞拉达,Synthetic demo service; not a supplier offer.,185,,,DEMO DATA ONLY
+ZJJ-ACTIVITY-02,张家界,活动,三下锅,Synthetic demo service; not a supplier offer.,132,,人,DEMO DATA ONLY
+ZJJ-ACTIVITY-03,张家界,活动,沱江泛舟,Synthetic demo service; not a supplier offer.,146,,,DEMO DATA ONLY
+ZJJ-ACTIVITY-04,张家界,活动,苗族长桌宴,Synthetic demo service; not a supplier offer.,0,0,人,DEMO DATA ONLY 用户确认免费（演示规则）
+ZJJ-ACTIVITY-05,张家界,活动,魅力湘西表演,Synthetic demo service; not a supplier offer.,294,,,DEMO DATA ONLY
+ZJJ-TICKET-01,张家界,门票,七十二奇楼,Synthetic demo service; not a supplier offer.,269,,,DEMO DATA ONLY
+ZJJ-TICKET-02,张家界,门票,凤凰古城,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+ZJJ-TICKET-03,张家界,门票,天子山索道,Synthetic demo service; not a supplier offer.,292,,,DEMO DATA ONLY
+ZJJ-TICKET-04,张家界,门票,天门山国家森林公园,Synthetic demo service; not a supplier offer.,173,,,DEMO DATA ONLY
+ZJJ-TICKET-05,张家界,门票,张家界国家森林公园,Synthetic demo service; not a supplier offer.,197,,,DEMO DATA ONLY
+ZJJ-TICKET-06,张家界,门票,百龙天梯,Synthetic demo service; not a supplier offer.,273,,,DEMO DATA ONLY
+ZJJ-TICKET-07,张家界,门票,芙蓉镇,Synthetic demo service; not a supplier offer.,174,,,DEMO DATA ONLY
+ZJJ-TICKET-08,张家界,门票,黄石寨索道,Synthetic demo service; not a supplier offer.,188,,,DEMO DATA ONLY
+ZJJ-GUIDE-01,张家界,导游,英文导游-初级,Synthetic demo service; not a supplier offer.,138,,天,DEMO DATA ONLY
+ZJJ-HOTEL-01,张家界,酒店,演示住宿 ZJJ-HOTEL-01,Synthetic demo service; not a supplier offer.,130,,间,DEMO DATA ONLY
+ZJJ-HOTEL-02,张家界,酒店,演示住宿 ZJJ-HOTEL-02,Synthetic demo service; not a supplier offer.,138,,间,DEMO DATA ONLY
+ZJJ-HOTEL-03,张家界,酒店,演示住宿 ZJJ-HOTEL-03,Synthetic demo service; not a supplier offer.,110,,间,DEMO DATA ONLY
+ZJJ-TRANS-01,张家界,车辆,5座车,Synthetic demo service; not a supplier offer.,250,,天,DEMO DATA ONLY
+ZJJ-TRANS-02,张家界,车辆,7座车,Synthetic demo service; not a supplier offer.,109,,天,DEMO DATA ONLY
+ZJJ-TRANS-03,张家界,车辆,接送荷花机场/张家界站,Synthetic demo service; not a supplier offer.,277,,次,DEMO DATA ONLY
+ZJJ-TRANS-04,张家界,车辆,7座车,Synthetic demo service; not a supplier offer.,214,,天,DEMO DATA ONLY
+ZJJ-TRANS-05,张家界,打车,滴滴快车,Synthetic demo service; not a supplier offer.,287,,天,DEMO DATA ONLY

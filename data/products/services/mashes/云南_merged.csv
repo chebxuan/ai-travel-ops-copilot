@@ -1,0 +1,34 @@
+项目编号,城市,服务类目,项目名称,项目说明,单价,单价（旺季）,单位,项目备注
+YN-ACTIVITY-01,云南,活动,周城扎染坊,Synthetic demo service; not a supplier offer.,103,,,DEMO DATA ONLY
+YN-ACTIVITY-02,云南,活动,周城扎染坊 (白族扎染体验),Synthetic demo service; not a supplier offer.,291,,,DEMO DATA ONLY
+YN-ACTIVITY-03,云南,活动,唐卡绘制体验,Synthetic demo service; not a supplier offer.,125,,人,DEMO DATA ONLY
+YN-ACTIVITY-05,云南,活动,昆明老街,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+YN-ACTIVITY-07,云南,活动,白族文化体验,Synthetic demo service; not a supplier offer.,227,,,DEMO DATA ONLY
+YN-ACTIVITY-08,云南,活动,白族民居三道茶,Synthetic demo service; not a supplier offer.,202,,,DEMO DATA ONLY
+YN-ACTIVITY-09,云南,活动,纳西文化体验,Synthetic demo service; not a supplier offer.,127,,人,DEMO DATA ONLY
+YN-ACTIVITY-10,云南,活动,藏族文化体验(唐卡),Synthetic demo service; not a supplier offer.,146,,,DEMO DATA ONLY
+YN-TICKET-01,云南,门票,丽江古城,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+YN-TICKET-02,云南,门票,丽江古城维护费,Synthetic demo service; not a supplier offer.,202,,,DEMO DATA ONLY
+YN-TICKET-03,云南,门票,大理古城,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+YN-TICKET-04,云南,门票,崇圣寺三塔,Synthetic demo service; not a supplier offer.,279,,,DEMO DATA ONLY
+YN-TICKET-05,云南,门票,普达措国家公园,Synthetic demo service; not a supplier offer.,193,,,DEMO DATA ONLY
+YN-TICKET-06,云南,门票,洱海生态廊道电瓶车,Synthetic demo service; not a supplier offer.,281,,,DEMO DATA ONLY
+YN-TICKET-07,云南,门票,独克宗,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+YN-TICKET-08,云南,门票,独克宗古城,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+YN-TICKET-09,云南,门票,虎跳峡,Synthetic demo service; not a supplier offer.,171,,,DEMO DATA ONLY
+YN-TICKET-10,云南,门票,昆明石林,Synthetic demo service; not a supplier offer.,105,,,DEMO DATA ONLY
+YN-TICKET-11,云南,门票,洱海,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）
+YN-TICKET-12,云南,门票,香格里拉,Synthetic demo service; not a supplier offer.,280,,,DEMO DATA ONLY
+YN-HOTEL-01,云南,酒店,演示住宿 YN-HOTEL-01,Synthetic demo service; not a supplier offer.,244,,,DEMO DATA ONLY
+YN-HOTEL-02,云南,酒店,演示住宿 YN-HOTEL-02,Synthetic demo service; not a supplier offer.,242,,,DEMO DATA ONLY
+YN-HOTEL-03,云南,酒店,演示住宿 YN-HOTEL-03,Synthetic demo service; not a supplier offer.,281,,,DEMO DATA ONLY
+YN-GUIDE-01,云南,导游,英文导游-初级,Synthetic demo service; not a supplier offer.,254,,,DEMO DATA ONLY
+YN-TRANS-01,云南,车辆,5座车,Synthetic demo service; not a supplier offer.,219,,,DEMO DATA ONLY
+YN-TRANS-02,云南,车辆,7座车,Synthetic demo service; not a supplier offer.,278,,,DEMO DATA ONLY
+YN-TRANS-03,云南,车辆,接送昆明长水机场,Synthetic demo service; not a supplier offer.,183,,,DEMO DATA ONLY
+YN-TRANS-04,云南,车辆,接送丽江三义机场,Synthetic demo service; not a supplier offer.,229,,,DEMO DATA ONLY
+YN-TRANS-05,云南,车辆,接送大理机场,Synthetic demo service; not a supplier offer.,240,,,DEMO DATA ONLY
+YN-TRANS-06,云南,车辆,丽江-香格里拉往返,Synthetic demo service; not a supplier offer.,184,,,DEMO DATA ONLY
+YN-TRANS-07,云南,车辆,滴滴快车,Synthetic demo service; not a supplier offer.,226,,,DEMO DATA ONLY
+YN-ADD-01,云南,补贴服务费,司导餐住补贴,Synthetic demo service; not a supplier offer.,121,,,DEMO DATA ONLY
+YN-ACTIVITY-11,云南,活动,返回丽江,Synthetic demo service; not a supplier offer.,0,0,,DEMO DATA ONLY 用户确认免费（演示规则）

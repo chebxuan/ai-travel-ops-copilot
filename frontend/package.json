@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node ./node_modules/next/dist/bin/next dev",
+    "build": "node ./node_modules/next/dist/bin/next build && node scripts/check-ops-prerender.mjs",
+    "start": "node ./node_modules/next/dist/bin/next start",
+    "lint": "node ./node_modules/eslint/bin/eslint.js",
+    "test:origin": "node scripts/check-enquiry-origin.mjs",
+    "test:enquiry-id": "node scripts/check-enquiry-request-id.mjs",
+    "test:ops": "node scripts/check-ops-security.mjs",
+    "test:ops-prerender": "node scripts/check-ops-prerender.mjs"
+  },
+  "dependencies": {
+    "animejs": "^4.5.0",
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^9",
+    "eslint-config-next": "16.4.0"
+  }
+}

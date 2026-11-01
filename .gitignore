@@ -1,0 +1,90 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+!**/.env.example
+.claude/
+.qoder/
+.local-backups/
+
+# Python environments and generated files
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Frontend dependencies and build output
+node_modules/
+.next/
+dist/
+out/
+coverage/
+*.tsbuildinfo
+
+# Mutable runtime storage and private references
+logs/
+data/payments.json
+references/private/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.jsonl
+
+# Large source documents; keep runtime CSV/JSON data versionable
+*.pdf
+*.numbers
+*.xlsx
+*.xls
+*.parquet
+
+# Editors and operating-system metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local PostgreSQL cluster, credentials, import/verification artefacts and dumps
+.local/
+*.dump
+
+# SSH identities, certificates and deployment archives (including outside .local)
+*.pem
+*.ppk
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+server_ed25519
+docker-app-*.tar
+docker-base-*.tar
+travel-release-*.tar.gz
+travel-verified*.dump
+
+# Public export excludes private source material and old history
+references/
+legacy/
+experiments/
+docs/archive/
+docs/history/
+*.tar
+*.tar.gz
+
+# Public export excludes private source material and old history
+references/
+legacy/
+experiments/
+docs/archive/
+docs/history/
+*.tar
+*.tar.gz

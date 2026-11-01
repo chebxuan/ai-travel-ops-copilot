@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "BJ-P-01",
+    "city": "北京",
+    "title": "北京演示产品 2 日（BJ-P-01）",
+    "days": 2,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "天安门广场 · 毛泽东纪念堂",
+        "activities": [
+          {
+            "title": "天安门广场",
+            "label": "行程"
+          },
+          {
+            "title": "毛泽东纪念堂",
+            "label": "行程"
+          },
+          {
+            "title": "人民大会堂",
+            "label": "行程"
+          },
+          {
+            "title": "故宫",
+            "label": "行程"
+          },
+          {
+            "title": "景山",
+            "label": "行程"
+          },
+          {
+            "title": "胡同什刹海",
+            "label": "行程"
+          },
+          {
+            "title": "京剧演出和晚餐",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "慕田峪长城 · 颐和园",
+        "activities": [
+          {
+            "title": "慕田峪长城",
+            "label": "行程"
+          },
+          {
+            "title": "颐和园",
+            "label": "行程"
+          },
+          {
+            "title": "涮肉",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "梨园京剧",
+      "涮肉"
+    ]
+  },
+  {
+    "id": "BJ-P-02",
+    "city": "北京",
+    "title": "北京演示产品 3 日（BJ-P-02）",
+    "days": 3,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "天安门广场 · 毛泽东纪念堂",
+        "activities": [
+          {
+            "title": "天安门广场",
+            "label": "行程"
+          },
+          {
+            "title": "毛泽东纪念堂",
+            "label": "行程"
+          },
+          {
+            "title": "人民大会堂",
+            "label": "行程"
+          },
+          {
+            "title": "故宫",
+            "label": "行程"
+          },
+          {
+            "title": "景山",
+            "label": "行程"
+          },
+          {
+            "title": "胡同什刹海",
+            "label": "行程"
+          },
+          {
+            "title": "京剧演出和晚餐",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "慕田峪长城 · 颐和园",
+        "activities": [
+          {
+            "title": "慕田峪长城",
+            "label": "行程"
+          },
+          {
+            "title": "颐和园",
+            "label": "行程"
+          },
+          {
+            "title": "涮肉",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "雍和宫 · 天坛",
+        "activities": [
+          {
+            "title": "雍和宫",
+            "label": "行程"
+          },
+          {
+            "title": "天坛",
+            "label": "行程"
+          },
+          {
+            "title": "烤鸭",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "梨园京剧",
+      "涮肉",
+      "烤鸭"
+    ]
+  },
+  {
+    "id": "BJ-P-03",
+    "city": "北京",
+    "title": "北京演示产品 4 日（BJ-P-03）",
+    "days": 4,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "天坛 · 雍和宫",
+        "activities": [
+          {
+            "title": "天坛",
+            "label": "行程"
+          },
+          {
+            "title": "雍和宫",
+            "label": "行程"
+          },
+          {
+            "title": "京剧演出和晚餐",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "慕田峪长城 · 奥林匹克公园",
+        "activities": [
+          {
+            "title": "慕田峪长城",
+            "label": "行程"
+          },
+          {
+            "title": "奥林匹克公园",
+            "label": "行程"
+          },
+          {
+            "title": "涮肉",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "天安门广场 · 毛泽东纪念堂",
+        "activities": [
+          {
+            "title": "天安门广场",
+            "label": "行程"
+          },
+          {
+            "title": "毛泽东纪念堂",
+            "label": "行程"
+          },
+          {
+            "title": "人民大会堂",
+            "label": "行程"
+          },
+          {
+            "title": "故宫",
+            "label": "行程"
+          },
+          {
+            "title": "景山",
+            "label": "行程"
+          },
+          {
+            "title": "胡同什刹海",
+            "label": "行程"
+          },
+          {
+            "title": "烤鸭",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 4,
+        "title": "颐和园 · 汉服体验",
+        "activities": [
+          {
+            "title": "颐和园",
+            "label": "行程"
+          },
+          {
+            "title": "汉服体验",
+            "label": "行程"
+          },
+          {
+            "title": "胡同酒馆",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "梨园京剧",
+      "涮肉",
+      "烤鸭",
+      "汉服体验",
+      "胡同酒馆"
+    ]
+  },
+  {
+    "id": "SH-P-01",
+    "city": "上海",
+    "title": "上海演示产品 2 日（SH-P-01）",
+    "days": 2,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "人民公园 · 上海博物馆",
+        "activities": [
+          {
+            "title": "人民公园",
+            "label": "行程"
+          },
+          {
+            "title": "上海博物馆",
+            "label": "行程"
+          },
+          {
+            "title": "豫园",
+            "label": "行程"
+          },
+          {
+            "title": "城隍庙",
+            "label": "行程"
+          },
+          {
+            "title": "外滩CW",
+            "label": "行程"
+          },
+          {
+            "title": "黄浦江夜游",
+            "label": "行程"
+          },
+          {
+            "title": "外滩用餐",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "中共一大 · 静安寺",
+        "activities": [
+          {
+            "title": "中共一大",
+            "label": "行程"
+          },
+          {
+            "title": "静安寺",
+            "label": "行程"
+          },
+          {
+            "title": "武康路",
+            "label": "行程"
+          },
+          {
+            "title": "法租界小酌",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "黄浦江夜游",
+      "外滩用餐",
+      "法租界小酌"
+    ]
+  },
+  {
+    "id": "SH-P-02",
+    "city": "上海",
+    "title": "上海演示产品 3 日（SH-P-02）",
+    "days": 3,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "人民公园 · 上海博物馆",
+        "activities": [
+          {
+            "title": "人民公园",
+            "label": "行程"
+          },
+          {
+            "title": "上海博物馆",
+            "label": "行程"
+          },
+          {
+            "title": "豫园",
+            "label": "行程"
+          },
+          {
+            "title": "城隍庙",
+            "label": "行程"
+          },
+          {
+            "title": "外滩CW",
+            "label": "行程"
+          },
+          {
+            "title": "黄浦江夜游",
+            "label": "行程"
+          },
+          {
+            "title": "外滩用餐",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "朱家角古镇 · 非遗/汉服体验",
+        "activities": [
+          {
+            "title": "朱家角古镇",
+            "label": "行程"
+          },
+          {
+            "title": "非遗/汉服体验",
+            "label": "行程"
+          },
+          {
+            "title": "本帮菜",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "中共一大 · 静安寺",
+        "activities": [
+          {
+            "title": "中共一大",
+            "label": "行程"
+          },
+          {
+            "title": "静安寺",
+            "label": "行程"
+          },
+          {
+            "title": "武康路",
+            "label": "行程"
+          },
+          {
+            "title": "法租界小酌",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "黄浦江夜游",
+      "外滩用餐",
+      "非遗老布手工体验",
+      "本帮菜",
+      "法租界小酌"
+    ]
+  },
+  {
+    "id": "SH-P-03",
+    "city": "上海",
+    "title": "上海演示产品 4 日（SH-P-03）",
+    "days": 4,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "人民公园 · 上海博物馆",
+        "activities": [
+          {
+            "title": "人民公园",
+            "label": "行程"
+          },
+          {
+            "title": "上海博物馆",
+            "label": "行程"
+          },
+          {
+            "title": "豫园",
+            "label": "行程"
+          },
+          {
+            "title": "城隍庙",
+            "label": "行程"
+          },
+          {
+            "title": "外滩CW",
+            "label": "行程"
+          },
+          {
+            "title": "外滩用餐",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "朱家角古镇 · 非遗/汉服体验",
+        "activities": [
+          {
+            "title": "朱家角古镇",
+            "label": "行程"
+          },
+          {
+            "title": "非遗/汉服体验",
+            "label": "行程"
+          },
+          {
+            "title": "本帮菜",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "中共一大 · 静安寺",
+        "activities": [
+          {
+            "title": "中共一大",
+            "label": "行程"
+          },
+          {
+            "title": "静安寺",
+            "label": "行程"
+          },
+          {
+            "title": "武康路",
+            "label": "行程"
+          },
+          {
+            "title": "法租界小酌",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 4,
+        "title": "迪士尼",
+        "activities": [
+          {
+            "title": "迪士尼",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "外滩用餐",
+      "非遗老布手工体验",
+      "本帮菜",
+      "法租界小酌"
+    ]
+  },
+  {
+    "id": "CQ-P-01",
+    "city": "重庆",
+    "title": "重庆演示产品 2 日（CQ-P-01）",
+    "days": 2,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "人民大礼堂 · 山城巷",
+        "activities": [
+          {
+            "title": "人民大礼堂",
+            "label": "行程"
+          },
+          {
+            "title": "山城巷",
+            "label": "行程"
+          },
+          {
+            "title": "长江索道",
+            "label": "行程"
+          },
+          {
+            "title": "下浩里",
+            "label": "行程"
+          },
+          {
+            "title": "盖碗茶",
+            "label": "行程"
+          },
+          {
+            "title": "川剧变脸",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "不同方向，选择其一",
+        "activities": [],
+        "alternatives": [
+          [
+            {
+              "title": "武隆",
+              "label": "行程"
+            }
+          ],
+          [
+            {
+              "title": "大足石刻",
+              "label": "行程"
+            },
+            {
+              "title": "磁器口古镇",
+              "label": "行程"
+            }
+          ]
+        ]
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "盖碗茶",
+      "川剧变脸表演",
+      "两江夜游",
+      "洪崖洞火锅"
+    ]
+  },
+  {
+    "id": "CQ-P-02",
+    "city": "重庆",
+    "title": "重庆演示产品 3 日（CQ-P-02）",
+    "days": 3,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "人民大礼堂 · 山城巷",
+        "activities": [
+          {
+            "title": "人民大礼堂",
+            "label": "行程"
+          },
+          {
+            "title": "山城巷",
+            "label": "行程"
+          },
+          {
+            "title": "长江索道",
+            "label": "行程"
+          },
+          {
+            "title": "下浩里",
+            "label": "行程"
+          },
+          {
+            "title": "盖碗茶",
+            "label": "行程"
+          },
+          {
+            "title": "川剧变脸",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "武隆 · 两江游",
+        "activities": [
+          {
+            "title": "武隆",
+            "label": "行程"
+          },
+          {
+            "title": "两江游",
+            "label": "行程"
+          },
+          {
+            "title": "洪崖洞火锅",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "大足石刻 · 磁器口古镇/制作麻花体验",
+        "activities": [
+          {
+            "title": "大足石刻",
+            "label": "行程"
+          },
+          {
+            "title": "磁器口古镇/制作麻花体验",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "盖碗茶",
+      "川剧变脸表演",
+      "两江夜游",
+      "洪崖洞火锅"
+    ]
+  },
+  {
+    "id": "CQ-P-03",
+    "city": "重庆",
+    "title": "重庆演示产品 5 日（CQ-P-03）",
+    "days": 5,
+    "dayPlans": [],
+    "overview": [
+      "重庆演示城市路线",
+      "大足演示文化路线",
+      "三峡游轮（分日安排待确认）"
+    ],
+    "notice": "山城、大足与三峡游轮组成 5 日路线，游轮分日安排与返程衔接待确认。暂展示路线概览。",
+    "optionalItems": []
+  },
+  {
+    "id": "XA-P-01",
+    "city": "西安",
+    "title": "西安演示产品 2 日（XA-P-01）",
+    "days": 2,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "兵马俑博物馆 · 兵马俑DIY",
+        "activities": [
+          {
+            "title": "兵马俑博物馆",
+            "label": "行程"
+          },
+          {
+            "title": "兵马俑DIY",
+            "label": "行程"
+          },
+          {
+            "title": "骊山园",
+            "label": "行程"
+          },
+          {
+            "title": "唐乐舞表演",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "明城墙骑行 · 钟鼓楼",
+        "activities": [
+          {
+            "title": "明城墙骑行",
+            "label": "行程"
+          },
+          {
+            "title": "钟鼓楼",
+            "label": "行程"
+          },
+          {
+            "title": "回民街",
+            "label": "行程"
+          },
+          {
+            "title": "大雁塔",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "唐乐舞表演"
+    ]
+  },
+  {
+    "id": "XA-P-02",
+    "city": "西安",
+    "title": "西安演示产品 3 日（XA-P-02）",
+    "days": 3,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "兵马俑博物馆 · 兵马俑DIY",
+        "activities": [
+          {
+            "title": "兵马俑博物馆",
+            "label": "行程"
+          },
+          {
+            "title": "兵马俑DIY",
+            "label": "行程"
+          },
+          {
+            "title": "骊山园",
+            "label": "行程"
+          },
+          {
+            "title": "唐乐舞表演",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "明城墙骑行 · 钟鼓楼",
+        "activities": [
+          {
+            "title": "明城墙骑行",
+            "label": "行程"
+          },
+          {
+            "title": "钟鼓楼",
+            "label": "行程"
+          },
+          {
+            "title": "回民街",
+            "label": "行程"
+          },
+          {
+            "title": "大雁塔",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "大唐芙蓉园 · 大唐不夜城",
+        "activities": [
+          {
+            "title": "大唐芙蓉园",
+            "label": "行程"
+          },
+          {
+            "title": "大唐不夜城",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "唐乐舞表演"
+    ]
+  },
+  {
+    "id": "YS-P-01",
+    "city": "阳朔",
+    "title": "阳朔演示产品 2 日（YS-P-01）",
+    "days": 2,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "遇龙河漂流 · 十里画廊骑行",
+        "activities": [
+          {
+            "title": "遇龙河漂流",
+            "label": "行程"
+          },
+          {
+            "title": "十里画廊骑行",
+            "label": "行程"
+          },
+          {
+            "title": "西街",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "古镇 · 漓江电动竹筏",
+        "activities": [
+          {
+            "title": "古镇",
+            "label": "行程"
+          },
+          {
+            "title": "漓江电动竹筏",
+            "label": "行程"
+          },
+          {
+            "title": "相公山",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": []
+  },
+  {
+    "id": "YS-P-02",
+    "city": "阳朔",
+    "title": "阳朔演示产品 3 日（YS-P-02）",
+    "days": 3,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "遇龙河漂流 · 十里画廊骑行",
+        "activities": [
+          {
+            "title": "遇龙河漂流",
+            "label": "行程"
+          },
+          {
+            "title": "十里画廊骑行",
+            "label": "行程"
+          },
+          {
+            "title": "阳朔西街",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "古镇 · 漓江电动竹筏",
+        "activities": [
+          {
+            "title": "古镇",
+            "label": "行程"
+          },
+          {
+            "title": "漓江电动竹筏",
+            "label": "行程"
+          },
+          {
+            "title": "相公山",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "不同方向，选择其一",
+        "activities": [
+          {
+            "title": "全地形山地车",
+            "label": "行程"
+          },
+          {
+            "title": "中餐烹饪体验",
+            "label": "行程"
+          }
+        ],
+        "alternatives": [
+          [
+            {
+              "title": "岩洞探险",
+              "label": "行程"
+            }
+          ],
+          [
+            {
+              "title": "飞拉达",
+              "label": "行程"
+            }
+          ]
+        ]
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": []
+  },
+  {
+    "id": "ZJJ-P-01",
+    "city": "张家界",
+    "title": "张家界演示产品 2 日（ZJJ-P-01）",
+    "days": 2,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "天门山 · 三下锅",
+        "activities": [
+          {
+            "title": "天门山",
+            "label": "行程"
+          },
+          {
+            "title": "三下锅",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "森林公园 · 魅力湘西",
+        "activities": [
+          {
+            "title": "森林公园",
+            "label": "行程"
+          },
+          {
+            "title": "魅力湘西",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "三下锅",
+      "魅力湘西表演"
+    ]
+  },
+  {
+    "id": "ZJJ-P-02",
+    "city": "张家界",
+    "title": "张家界演示产品 3 日（ZJJ-P-02）",
+    "days": 3,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "天门山 · 三下锅",
+        "activities": [
+          {
+            "title": "天门山",
+            "label": "行程"
+          },
+          {
+            "title": "三下锅",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "森林公园 · 魅力湘西",
+        "activities": [
+          {
+            "title": "森林公园",
+            "label": "行程"
+          },
+          {
+            "title": "魅力湘西",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "不同方向，选择其一",
+        "activities": [],
+        "alternatives": [
+          [
+            {
+              "title": "芙蓉镇",
+              "label": "行程"
+            },
+            {
+              "title": "凤凰古城",
+              "label": "行程"
+            }
+          ],
+          [
+            {
+              "title": "七星山飞拉达",
+              "label": "行程"
+            },
+            {
+              "title": "七十二奇楼",
+              "label": "行程"
+            }
+          ]
+        ]
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "三下锅",
+      "魅力湘西表演"
+    ]
+  },
+  {
+    "id": "GZ-P-01",
+    "city": "广州",
+    "title": "广州演示产品 1 日（GZ-P-01）",
+    "days": 1,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "世界工厂探秘 · 市场淘宝",
+        "activities": [
+          {
+            "title": "世界工厂探秘",
+            "label": "行程"
+          },
+          {
+            "title": "市场淘宝",
+            "label": "行程"
+          },
+          {
+            "title": "网红直播基地",
+            "label": "行程"
+          },
+          {
+            "title": "冰啤收尾",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "网红直播基地探访",
+      "冰啤收尾"
+    ]
+  },
+  {
+    "id": "GZ-P-02",
+    "city": "广州",
+    "title": "广州演示产品 2 日（GZ-P-02）",
+    "days": 2,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "西关寻踪 · 沙面",
+        "activities": [
+          {
+            "title": "西关寻踪",
+            "label": "行程"
+          },
+          {
+            "title": "沙面",
+            "label": "行程"
+          },
+          {
+            "title": "永庆坊)+非遗体验+荔湾博物馆+广州塔+夜市大排档",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "古龙峡 · SPA自助",
+        "activities": [
+          {
+            "title": "古龙峡",
+            "label": "行程"
+          },
+          {
+            "title": "SPA自助",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "非遗体验",
+      "夜市大排档",
+      "SPA自助"
+    ]
+  },
+  {
+    "id": "GZ-P-03",
+    "city": "广州",
+    "title": "广州演示产品 3 日（GZ-P-03）",
+    "days": 3,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "西关寻踪 · 沙面",
+        "activities": [
+          {
+            "title": "西关寻踪",
+            "label": "行程"
+          },
+          {
+            "title": "沙面",
+            "label": "行程"
+          },
+          {
+            "title": "永庆坊)+非遗体验+荔湾博物馆+广州塔+夜市大排档",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "越秀公园 · 南越王博物院",
+        "activities": [
+          {
+            "title": "越秀公园",
+            "label": "行程"
+          },
+          {
+            "title": "南越王博物院",
+            "label": "行程"
+          },
+          {
+            "title": "中山纪念堂",
+            "label": "行程"
+          },
+          {
+            "title": "咏春拳体验",
+            "label": "行程"
+          },
+          {
+            "title": "地道粤菜",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "古龙峡 · SPA自助",
+        "activities": [
+          {
+            "title": "古龙峡",
+            "label": "行程"
+          },
+          {
+            "title": "SPA自助",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "非遗体验",
+      "夜市大排档",
+      "咏春拳体验",
+      "地道粤菜",
+      "SPA自助"
+    ]
+  },
+  {
+    "id": "GZH-P-01",
+    "city": "贵州",
+    "title": "贵州演示产品 4 日（GZH-P-01）",
+    "days": 4,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "甲秀楼 · 青岩古镇",
+        "activities": [
+          {
+            "title": "甲秀楼",
+            "label": "行程"
+          },
+          {
+            "title": "青岩古镇",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "施洞苗银村 · 下司古镇",
+        "activities": [
+          {
+            "title": "施洞苗银村",
+            "label": "行程"
+          },
+          {
+            "title": "下司古镇",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "肇兴侗寨",
+        "activities": [
+          {
+            "title": "肇兴侗寨",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 4,
+        "title": "荔波小七孔",
+        "activities": [
+          {
+            "title": "荔波小七孔",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": []
+  },
+  {
+    "id": "YN-P-01",
+    "city": "云南",
+    "title": "云南演示产品 5 日（YN-P-01）",
+    "days": 5,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "昆明石林 · 昆明老街",
+        "activities": [
+          {
+            "title": "昆明石林",
+            "label": "行程"
+          },
+          {
+            "title": "昆明老街",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "大理古城 · 白族文化体验",
+        "activities": [
+          {
+            "title": "大理古城",
+            "label": "行程"
+          },
+          {
+            "title": "白族文化体验",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 3,
+        "title": "洱海 · 丽江古城",
+        "activities": [
+          {
+            "title": "洱海",
+            "label": "行程"
+          },
+          {
+            "title": "丽江古城",
+            "label": "行程"
+          },
+          {
+            "title": "纳西文化体验",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 4,
+        "title": "香格里拉 · 虎跳峡",
+        "activities": [
+          {
+            "title": "香格里拉",
+            "label": "行程"
+          },
+          {
+            "title": "虎跳峡",
+            "label": "行程"
+          },
+          {
+            "title": "独克宗古城",
+            "label": "行程"
+          },
+          {
+            "title": "唐卡绘制体验",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 5,
+        "title": "普达措国家公园 · 返回丽江",
+        "activities": [
+          {
+            "title": "普达措国家公园",
+            "label": "行程"
+          },
+          {
+            "title": "返回丽江",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": []
+  },
+  {
+    "id": "CD-P-01",
+    "city": "成都",
+    "title": "成都演示产品 2 日（CD-P-01）",
+    "days": 2,
+    "dayPlans": [
+      {
+        "number": 1,
+        "title": "武侯祠 · 成都博物馆",
+        "activities": [
+          {
+            "title": "武侯祠",
+            "label": "行程"
+          },
+          {
+            "title": "成都博物馆",
+            "label": "行程"
+          },
+          {
+            "title": "太古里",
+            "label": "行程"
+          },
+          {
+            "title": "川剧变脸",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      },
+      {
+        "number": 2,
+        "title": "大熊猫基地 · 人民公园",
+        "activities": [
+          {
+            "title": "大熊猫基地",
+            "label": "行程"
+          },
+          {
+            "title": "人民公园",
+            "label": "行程"
+          },
+          {
+            "title": "宽窄巷子",
+            "label": "行程"
+          },
+          {
+            "title": "串串",
+            "label": "行程"
+          }
+        ],
+        "alternatives": []
+      }
+    ],
+    "overview": [],
+    "notice": "",
+    "optionalItems": [
+      "川剧变脸表演",
+      "串串"
+    ]
+  }
+]
